@@ -1,0 +1,2967 @@
+Age,Stream,Internships,CGPA,HistoryOfBacklogs,PlacedOrNot
+22,Electronics And Communication,1,8,1,1
+21,Computer Science,0,7,1,1
+22,Information Technology,1,6,0,1
+21,Information Technology,0,8,1,1
+22,Mechanical,0,8,0,1
+22,Electronics And Communication,0,6,0,0
+21,Computer Science,0,7,1,0
+21,Information Technology,1,7,0,0
+21,Computer Science,2,6,0,1
+21,Computer Science,1,6,0,0
+22,Computer Science,1,7,0,0
+22,Electrical,1,8,1,1
+21,Computer Science,2,6,1,0
+21,Computer Science,1,8,1,1
+21,Electronics And Communication,2,8,0,1
+22,Mechanical,0,8,0,1
+22,Computer Science,1,7,0,0
+21,Civil,0,6,0,0
+21,Computer Science,1,7,0,0
+22,Computer Science,1,7,0,0
+22,Civil,0,8,0,1
+21,Computer Science,1,6,0,0
+22,Civil,0,7,0,0
+22,Electronics And Communication,1,7,1,0
+22,Electronics And Communication,0,7,0,0
+21,Electrical,0,8,0,1
+22,Electrical,1,8,0,1
+22,Information Technology,1,8,0,1
+22,Information Technology,1,8,0,1
+21,Information Technology,0,6,0,1
+22,Mechanical,1,8,0,1
+21,Electrical,1,7,0,1
+21,Civil,1,7,0,0
+21,Electrical,0,7,0,0
+21,Computer Science,1,6,0,1
+21,Information Technology,1,6,0,0
+22,Civil,0,7,0,1
+22,Computer Science,1,8,0,1
+22,Information Technology,1,6,0,0
+22,Electronics And Communication,0,8,1,1
+22,Electrical,1,6,1,0
+22,Civil,0,8,0,1
+21,Electrical,1,7,1,1
+21,Electrical,1,7,0,1
+22,Information Technology,2,8,0,1
+21,Electronics And Communication,3,6,0,1
+22,Computer Science,1,8,0,1
+21,Electronics And Communication,1,7,1,1
+21,Information Technology,2,7,0,1
+21,Electronics And Communication,0,7,0,0
+22,Electronics And Communication,0,8,0,1
+21,Electrical,1,8,0,1
+21,Computer Science,1,8,0,1
+21,Electrical,3,6,1,0
+21,Electronics And Communication,3,6,0,1
+21,Computer Science,1,7,0,1
+21,Electronics And Communication,0,8,0,1
+21,Civil,0,8,0,1
+21,Electronics And Communication,0,8,0,1
+21,Electrical,1,8,0,1
+21,Computer Science,2,9,1,1
+22,Computer Science,0,8,0,1
+21,Information Technology,0,8,0,1
+21,Information Technology,0,9,0,1
+21,Information Technology,1,8,0,1
+22,Mechanical,0,9,0,1
+22,Computer Science,1,9,0,1
+21,Information Technology,0,8,0,1
+22,Computer Science,2,9,0,1
+21,Mechanical,0,8,1,1
+22,Electrical,1,8,0,1
+22,Information Technology,0,9,0,1
+22,Computer Science,3,9,0,1
+21,Information Technology,0,8,0,1
+22,Information Technology,1,9,0,1
+21,Civil,0,8,0,1
+21,Mechanical,0,9,0,1
+22,Mechanical,0,8,1,1
+22,Information Technology,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Civil,0,9,0,1
+21,Computer Science,1,9,0,1
+22,Mechanical,0,8,0,1
+21,Information Technology,0,8,0,1
+21,Mechanical,0,8,0,1
+21,Electronics And Communication,2,7,0,1
+21,Computer Science,0,8,0,1
+21,Computer Science,0,6,0,0
+22,Civil,1,6,0,0
+22,Mechanical,1,7,0,0
+21,Civil,1,8,1,1
+22,Information Technology,1,6,0,1
+21,Electrical,1,6,0,1
+22,Information Technology,2,7,0,0
+22,Electronics And Communication,0,6,0,0
+22,Computer Science,1,8,0,1
+21,Computer Science,2,7,0,0
+22,Information Technology,0,8,0,1
+22,Information Technology,0,7,0,0
+21,Mechanical,0,7,0,0
+23,Computer Science,0,7,0,1
+23,Civil,0,6,0,1
+23,Mechanical,1,5,0,0
+24,Information Technology,2,6,0,1
+23,Electrical,0,5,0,0
+23,Information Technology,1,6,0,0
+24,Information Technology,0,6,0,1
+24,Information Technology,1,7,0,1
+24,Civil,1,7,1,1
+23,Information Technology,1,7,0,1
+23,Information Technology,1,6,0,1
+24,Electronics And Communication,1,6,1,1
+24,Electrical,0,7,0,0
+23,Information Technology,1,6,0,0
+24,Computer Science,0,6,0,1
+23,Electrical,0,6,0,0
+23,Information Technology,1,7,0,1
+23,Information Technology,1,7,0,1
+24,Information Technology,3,5,1,1
+23,Mechanical,0,6,0,1
+23,Information Technology,2,6,0,1
+23,Electronics And Communication,1,7,0,0
+23,Information Technology,1,5,0,1
+23,Information Technology,1,7,0,1
+23,Mechanical,2,7,0,1
+24,Information Technology,1,5,0,0
+24,Information Technology,1,7,0,0
+24,Computer Science,2,7,0,1
+24,Electronics And Communication,0,5,0,0
+24,Information Technology,1,7,0,1
+23,Mechanical,0,6,1,1
+23,Computer Science,0,6,0,0
+23,Mechanical,1,7,0,0
+24,Computer Science,1,6,0,1
+23,Mechanical,1,6,1,1
+24,Computer Science,0,6,0,1
+24,Mechanical,0,6,0,1
+24,Information Technology,0,5,0,1
+23,Electrical,0,5,0,0
+24,Electrical,0,5,0,0
+23,Computer Science,1,5,0,1
+23,Electronics And Communication,0,7,0,1
+24,Information Technology,3,7,0,1
+24,Computer Science,2,5,0,1
+24,Computer Science,2,5,0,1
+23,Civil,0,7,0,1
+24,Information Technology,1,6,0,1
+23,Mechanical,0,5,1,0
+23,Electrical,0,6,0,0
+24,Computer Science,1,7,0,1
+23,Electrical,0,5,0,0
+24,Information Technology,0,5,0,0
+23,Computer Science,1,5,0,1
+23,Electronics And Communication,2,6,0,0
+24,Civil,0,7,0,1
+24,Electronics And Communication,2,6,0,1
+23,Information Technology,0,5,0,0
+24,Computer Science,2,6,0,1
+23,Computer Science,1,6,0,0
+24,Computer Science,0,7,1,1
+22,Electronics And Communication,0,7,0,1
+22,Mechanical,0,5,0,0
+22,Computer Science,1,5,0,0
+21,Computer Science,1,6,0,1
+21,Civil,3,6,0,1
+21,Computer Science,0,6,1,1
+21,Electrical,0,5,0,0
+21,Information Technology,1,6,0,0
+22,Computer Science,1,5,0,0
+22,Computer Science,1,5,0,0
+21,Civil,1,6,0,1
+21,Information Technology,2,5,0,0
+21,Information Technology,1,6,0,1
+22,Civil,0,6,0,0
+22,Civil,0,7,1,0
+21,Information Technology,0,7,0,1
+21,Electronics And Communication,0,7,0,1
+22,Information Technology,1,7,0,0
+22,Electrical,1,6,0,1
+21,Mechanical,1,5,0,0
+22,Information Technology,1,6,0,0
+22,Computer Science,2,6,0,1
+21,Electronics And Communication,1,6,1,0
+22,Civil,0,5,0,0
+21,Electrical,2,5,1,0
+22,Civil,1,7,0,0
+21,Computer Science,1,7,0,0
+21,Computer Science,1,6,0,0
+22,Electronics And Communication,1,5,0,0
+21,Information Technology,0,6,0,0
+22,Computer Science,0,5,0,0
+22,Computer Science,0,5,0,0
+21,Mechanical,0,7,0,0
+21,Computer Science,0,5,0,0
+21,Information Technology,0,5,1,0
+22,Computer Science,1,5,0,0
+21,Electronics And Communication,2,6,1,0
+21,Information Technology,1,5,1,0
+22,Computer Science,2,7,0,0
+21,Computer Science,0,8,0,1
+21,Computer Science,2,7,0,1
+22,Computer Science,1,6,0,0
+21,Information Technology,2,6,0,1
+21,Electronics And Communication,1,7,0,0
+21,Computer Science,1,7,0,0
+21,Mechanical,0,8,0,1
+22,Mechanical,0,8,0,1
+22,Information Technology,1,6,0,0
+21,Electrical,0,7,0,0
+21,Mechanical,0,8,0,1
+21,Computer Science,2,8,0,1
+21,Information Technology,1,7,0,0
+22,Information Technology,0,6,1,0
+22,Information Technology,1,8,0,1
+21,Electrical,1,7,0,1
+21,Civil,1,6,0,0
+21,Computer Science,3,6,0,1
+21,Civil,1,7,0,0
+22,Electrical,1,7,0,0
+21,Electronics And Communication,2,6,1,0
+22,Electrical,1,8,1,1
+22,Computer Science,2,8,0,1
+21,Mechanical,1,6,1,0
+22,Computer Science,0,7,0,0
+22,Civil,0,6,0,0
+21,Civil,0,6,0,0
+21,Computer Science,1,7,0,0
+21,Computer Science,2,7,0,1
+21,Mechanical,1,6,0,0
+22,Mechanical,0,6,0,0
+22,Electronics And Communication,1,8,0,1
+22,Computer Science,1,8,0,1
+21,Information Technology,0,8,0,1
+22,Information Technology,1,7,0,0
+21,Information Technology,0,8,1,1
+22,Computer Science,1,8,0,1
+22,Computer Science,1,7,0,0
+21,Information Technology,2,7,0,1
+21,Mechanical,1,8,0,1
+21,Computer Science,1,6,0,0
+22,Information Technology,1,7,0,0
+22,Computer Science,0,6,0,0
+21,Information Technology,2,8,0,1
+22,Civil,0,7,1,0
+21,Electrical,1,6,0,0
+21,Electronics And Communication,2,6,0,1
+21,Mechanical,1,7,0,0
+22,Civil,0,7,0,0
+22,Electrical,1,6,0,0
+22,Computer Science,0,8,0,1
+21,Computer Science,3,8,0,1
+21,Information Technology,0,8,1,1
+22,Electronics And Communication,0,6,0,0
+22,Civil,1,7,0,0
+22,Information Technology,1,8,1,1
+22,Computer Science,1,8,1,1
+22,Mechanical,1,8,0,1
+21,Electrical,2,6,0,1
+22,Electronics And Communication,1,6,0,0
+22,Information Technology,0,8,0,1
+22,Computer Science,1,7,0,0
+21,Information Technology,1,8,0,1
+21,Electrical,1,7,0,1
+22,Mechanical,0,8,1,1
+21,Civil,0,6,0,0
+21,Information Technology,1,6,0,0
+21,Information Technology,1,8,0,1
+22,Electronics And Communication,1,8,1,1
+21,Civil,1,7,0,0
+22,Information Technology,2,6,0,1
+21,Electrical,0,6,0,0
+22,Information Technology,1,7,1,0
+21,Electronics And Communication,0,6,0,0
+22,Computer Science,0,8,1,1
+21,Electronics And Communication,1,7,0,0
+22,Mechanical,0,6,0,0
+21,Civil,0,7,0,0
+21,Civil,1,7,0,0
+21,Computer Science,1,7,0,0
+21,Information Technology,0,6,1,1
+21,Electronics And Communication,2,7,0,1
+22,Mechanical,1,8,0,1
+21,Mechanical,0,6,1,1
+21,Civil,0,7,0,1
+22,Electronics And Communication,0,8,0,1
+21,Electronics And Communication,1,6,1,1
+21,Mechanical,2,6,0,0
+22,Computer Science,0,8,0,1
+21,Civil,0,7,0,0
+22,Information Technology,0,7,0,0
+22,Computer Science,0,7,0,0
+22,Civil,1,6,0,0
+22,Computer Science,2,6,1,0
+22,Electronics And Communication,0,7,0,1
+21,Civil,0,8,0,1
+21,Civil,0,8,0,1
+22,Computer Science,2,6,0,1
+22,Computer Science,2,7,0,1
+22,Electronics And Communication,1,7,1,1
+21,Information Technology,2,7,0,1
+22,Civil,0,6,0,0
+22,Civil,1,6,0,1
+21,Electronics And Communication,0,7,0,0
+21,Information Technology,0,7,0,1
+22,Electronics And Communication,1,8,0,1
+22,Computer Science,0,6,1,0
+22,Electrical,2,8,1,1
+22,Information Technology,0,6,1,1
+22,Computer Science,1,6,0,1
+21,Electrical,0,8,0,1
+21,Computer Science,1,7,0,1
+22,Information Technology,2,7,1,1
+22,Computer Science,1,8,0,1
+22,Civil,0,6,0,1
+22,Mechanical,0,6,0,1
+22,Civil,0,7,0,0
+22,Information Technology,0,6,0,1
+22,Electrical,1,8,0,1
+21,Computer Science,0,6,0,0
+21,Computer Science,1,6,0,1
+21,Computer Science,0,8,0,1
+21,Mechanical,0,7,1,1
+21,Computer Science,2,8,0,1
+22,Civil,0,8,0,1
+21,Mechanical,1,6,0,0
+22,Computer Science,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Electronics And Communication,0,6,0,0
+22,Electronics And Communication,1,6,1,0
+22,Information Technology,0,8,0,1
+21,Computer Science,1,6,0,0
+22,Electrical,0,6,0,1
+22,Electronics And Communication,0,7,0,0
+21,Information Technology,0,8,0,1
+22,Mechanical,0,8,1,1
+22,Mechanical,0,7,1,0
+21,Electronics And Communication,0,8,0,1
+21,Information Technology,1,6,0,0
+22,Computer Science,2,7,0,1
+22,Electronics And Communication,0,7,0,0
+21,Electronics And Communication,1,7,1,1
+22,Information Technology,0,8,0,1
+21,Information Technology,0,8,0,1
+22,Electrical,1,8,1,1
+22,Information Technology,1,6,0,1
+22,Mechanical,0,8,1,1
+21,Mechanical,0,6,0,1
+21,Electronics And Communication,1,8,0,1
+21,Civil,0,7,0,0
+22,Computer Science,1,8,0,1
+22,Information Technology,1,7,0,1
+21,Mechanical,1,6,0,0
+21,Mechanical,0,7,0,1
+21,Electronics And Communication,0,8,0,1
+22,Computer Science,0,6,0,1
+22,Electrical,0,6,1,0
+21,Information Technology,2,8,0,1
+22,Electrical,0,8,0,1
+21,Electronics And Communication,1,7,0,0
+22,Mechanical,0,7,0,1
+22,Electronics And Communication,0,7,0,0
+21,Computer Science,1,8,0,1
+22,Electronics And Communication,0,8,0,1
+21,Computer Science,0,8,1,1
+21,Information Technology,1,7,1,0
+22,Electronics And Communication,0,7,0,0
+22,Computer Science,1,6,0,0
+21,Computer Science,0,8,1,1
+21,Electrical,0,6,0,0
+21,Information Technology,0,6,0,0
+22,Computer Science,2,8,0,1
+21,Computer Science,1,7,0,0
+22,Information Technology,0,6,0,0
+22,Information Technology,0,6,0,0
+22,Civil,1,6,0,0
+22,Mechanical,0,7,0,0
+21,Mechanical,0,8,0,1
+21,Information Technology,0,6,0,0
+21,Mechanical,1,6,1,0
+22,Computer Science,0,7,1,0
+21,Computer Science,0,7,0,0
+22,Information Technology,0,8,0,1
+21,Computer Science,0,6,0,0
+21,Information Technology,1,6,0,0
+22,Electronics And Communication,1,6,1,0
+21,Information Technology,0,6,0,0
+21,Computer Science,1,8,0,1
+22,Mechanical,1,6,0,0
+22,Electronics And Communication,0,7,0,0
+22,Information Technology,0,7,1,0
+22,Civil,0,6,0,0
+22,Mechanical,0,8,0,1
+21,Electronics And Communication,0,8,0,1
+22,Computer Science,1,6,0,0
+21,Mechanical,0,6,0,0
+21,Information Technology,1,8,0,1
+21,Electronics And Communication,1,8,1,1
+21,Electronics And Communication,2,8,0,1
+21,Electronics And Communication,2,7,0,1
+21,Information Technology,0,6,1,0
+22,Electrical,0,6,0,0
+22,Mechanical,1,6,0,0
+21,Electronics And Communication,1,6,1,0
+21,Information Technology,1,5,0,0
+21,Computer Science,0,6,1,0
+22,Information Technology,1,5,0,0
+21,Mechanical,1,5,1,0
+21,Information Technology,2,6,0,1
+21,Computer Science,2,5,1,0
+22,Electrical,0,5,0,0
+21,Information Technology,0,5,1,0
+22,Electronics And Communication,2,7,1,0
+21,Electrical,0,7,1,0
+21,Electronics And Communication,1,6,1,0
+22,Computer Science,1,6,0,0
+22,Mechanical,0,6,0,0
+22,Computer Science,2,6,0,1
+21,Electrical,0,6,0,0
+22,Civil,0,6,0,0
+22,Information Technology,0,7,0,0
+21,Computer Science,0,6,1,0
+22,Electrical,2,6,1,0
+22,Computer Science,1,6,0,0
+21,Computer Science,1,7,0,0
+22,Mechanical,0,8,0,1
+21,Electrical,3,7,0,1
+22,Mechanical,0,8,1,1
+21,Electrical,0,6,0,0
+21,Computer Science,0,8,0,1
+21,Computer Science,0,7,0,0
+21,Electrical,1,6,0,0
+22,Civil,1,8,0,1
+21,Civil,0,8,0,1
+21,Information Technology,1,6,0,0
+21,Computer Science,1,6,0,0
+21,Mechanical,0,6,1,0
+21,Civil,0,7,0,0
+21,Information Technology,1,8,0,1
+22,Civil,0,8,0,1
+22,Computer Science,0,7,1,0
+21,Electrical,0,6,0,0
+21,Electrical,1,6,1,0
+22,Electronics And Communication,1,8,1,1
+21,Computer Science,0,7,1,0
+21,Computer Science,0,7,1,0
+21,Civil,1,8,1,1
+22,Information Technology,0,8,0,1
+21,Electronics And Communication,0,6,0,0
+28,Civil,0,8,0,1
+21,Computer Science,2,7,0,1
+22,Electronics And Communication,2,6,0,1
+21,Information Technology,1,8,0,1
+22,Mechanical,0,6,0,1
+21,Mechanical,0,8,0,1
+21,Information Technology,1,6,0,0
+22,Mechanical,1,7,0,0
+22,Electronics And Communication,0,8,0,1
+21,Electrical,0,6,0,0
+21,Mechanical,0,6,0,1
+22,Mechanical,0,7,0,0
+22,Electronics And Communication,1,6,1,0
+22,Computer Science,0,7,1,1
+21,Computer Science,0,7,0,1
+22,Computer Science,0,8,1,1
+22,Information Technology,1,6,0,0
+21,Electronics And Communication,0,6,0,0
+22,Computer Science,0,6,0,1
+21,Civil,0,6,0,1
+22,Information Technology,1,8,0,1
+21,Information Technology,1,8,0,1
+21,Mechanical,0,8,0,1
+22,Civil,0,6,0,0
+22,Electrical,0,7,1,0
+21,Information Technology,1,6,1,1
+21,Mechanical,1,6,0,0
+22,Mechanical,0,6,1,1
+22,Information Technology,0,7,0,1
+22,Information Technology,2,7,0,0
+21,Computer Science,3,8,0,1
+22,Computer Science,0,6,0,1
+21,Computer Science,0,8,1,1
+21,Information Technology,1,8,1,1
+21,Computer Science,0,8,1,1
+22,Information Technology,1,6,0,1
+21,Electronics And Communication,0,8,1,1
+22,Mechanical,1,7,0,0
+21,Information Technology,1,8,0,1
+22,Electrical,0,6,0,0
+22,Mechanical,0,7,0,0
+22,Civil,0,6,0,0
+22,Information Technology,0,6,1,1
+22,Electronics And Communication,1,7,0,0
+21,Information Technology,1,8,0,1
+22,Electrical,1,7,0,0
+22,Mechanical,0,6,0,1
+21,Civil,2,6,0,1
+22,Electronics And Communication,0,6,0,1
+21,Computer Science,0,7,0,1
+22,Mechanical,0,7,1,0
+22,Mechanical,2,7,0,1
+22,Mechanical,0,7,0,1
+21,Computer Science,0,7,0,0
+22,Computer Science,1,7,0,1
+21,Electrical,0,6,0,1
+22,Civil,0,6,0,0
+21,Information Technology,3,8,0,1
+22,Electronics And Communication,3,8,1,1
+21,Information Technology,0,7,1,1
+21,Computer Science,1,8,0,1
+21,Information Technology,0,7,0,0
+21,Mechanical,2,6,0,1
+22,Mechanical,0,8,0,1
+21,Computer Science,1,8,0,1
+22,Electrical,0,8,1,1
+21,Civil,1,8,0,1
+22,Computer Science,1,7,0,0
+21,Electrical,0,7,0,0
+21,Information Technology,0,7,0,0
+21,Computer Science,1,8,0,1
+21,Computer Science,1,8,0,1
+21,Electronics And Communication,1,6,0,0
+22,Mechanical,0,8,0,1
+22,Electronics And Communication,1,8,0,1
+21,Computer Science,1,6,0,0
+21,Civil,0,7,0,0
+22,Electronics And Communication,1,7,1,0
+22,Electrical,1,7,0,0
+22,Electrical,0,8,0,1
+21,Information Technology,1,8,0,1
+22,Mechanical,2,7,0,0
+21,Civil,0,6,1,0
+22,Mechanical,1,6,0,0
+22,Electronics And Communication,1,7,0,0
+22,Mechanical,1,7,0,0
+22,Mechanical,1,8,0,1
+21,Computer Science,0,7,1,0
+21,Electronics And Communication,0,8,0,1
+21,Mechanical,1,7,0,0
+22,Information Technology,0,7,0,0
+21,Computer Science,2,7,0,1
+22,Civil,1,8,0,1
+22,Electronics And Communication,0,8,0,1
+22,Mechanical,0,7,0,0
+22,Information Technology,1,7,0,0
+22,Computer Science,1,6,0,0
+21,Computer Science,1,6,0,0
+22,Civil,1,6,0,0
+21,Civil,1,8,0,1
+22,Computer Science,1,7,0,0
+21,Mechanical,1,8,0,1
+30,Computer Science,1,8,0,1
+22,Information Technology,0,8,1,1
+21,Information Technology,1,7,1,0
+22,Electronics And Communication,0,7,0,0
+22,Information Technology,1,8,0,1
+22,Civil,1,7,0,0
+22,Electrical,1,6,1,0
+21,Civil,1,7,1,0
+21,Computer Science,0,6,0,0
+22,Electrical,1,7,0,0
+21,Information Technology,0,8,1,1
+21,Computer Science,1,7,0,0
+22,Electrical,1,7,1,0
+22,Electrical,0,8,0,1
+22,Electrical,1,7,0,0
+21,Computer Science,1,7,0,0
+21,Computer Science,2,7,0,1
+21,Computer Science,0,7,0,0
+22,Electrical,0,7,1,0
+22,Computer Science,2,6,0,1
+22,Electronics And Communication,0,8,0,1
+21,Electrical,0,7,0,0
+22,Information Technology,1,6,0,0
+21,Computer Science,0,7,0,0
+22,Information Technology,0,8,0,1
+22,Electronics And Communication,1,7,0,0
+21,Information Technology,0,6,0,0
+21,Civil,0,7,0,0
+22,Electrical,1,8,0,1
+22,Computer Science,0,6,0,0
+21,Information Technology,0,7,0,0
+21,Civil,1,8,0,1
+21,Computer Science,1,7,0,0
+22,Civil,0,7,0,0
+21,Computer Science,2,7,1,0
+22,Electronics And Communication,0,8,0,1
+21,Computer Science,1,7,0,0
+22,Computer Science,1,6,0,0
+21,Computer Science,0,7,1,0
+21,Electronics And Communication,1,7,0,1
+21,Information Technology,1,8,1,1
+21,Electronics And Communication,0,7,0,1
+22,Information Technology,2,6,0,1
+22,Computer Science,1,6,0,0
+21,Electronics And Communication,0,7,0,1
+22,Computer Science,1,6,0,1
+21,Electronics And Communication,0,8,0,1
+22,Information Technology,0,8,0,1
+22,Information Technology,1,7,0,0
+21,Information Technology,2,6,0,1
+21,Computer Science,2,8,0,1
+22,Information Technology,2,7,0,1
+21,Computer Science,2,7,0,1
+21,Information Technology,2,8,0,1
+21,Computer Science,2,7,0,1
+22,Information Technology,1,7,0,1
+22,Computer Science,2,7,0,1
+21,Electrical,1,8,0,1
+21,Information Technology,2,7,1,0
+22,Computer Science,1,8,1,1
+21,Computer Science,1,7,0,0
+21,Civil,2,6,0,0
+22,Electrical,1,6,0,0
+21,Information Technology,1,8,1,1
+21,Electronics And Communication,1,7,0,0
+21,Electrical,1,7,1,1
+21,Electrical,2,8,0,1
+22,Electronics And Communication,1,8,0,1
+22,Mechanical,1,8,0,1
+21,Civil,2,8,1,1
+22,Computer Science,1,6,0,1
+22,Electrical,2,6,0,1
+22,Mechanical,2,7,0,0
+22,Electronics And Communication,1,7,0,0
+22,Electronics And Communication,2,8,0,1
+22,Electronics And Communication,1,8,0,1
+21,Mechanical,1,6,0,0
+22,Mechanical,2,6,0,1
+22,Civil,1,6,0,0
+21,Mechanical,1,8,0,1
+21,Information Technology,2,6,0,1
+21,Electronics And Communication,2,8,0,1
+21,Information Technology,2,8,1,1
+22,Computer Science,2,7,0,0
+22,Information Technology,1,8,0,1
+22,Electrical,2,8,0,1
+22,Electronics And Communication,2,8,0,1
+21,Computer Science,2,6,0,1
+22,Computer Science,1,7,0,1
+21,Mechanical,1,7,0,0
+21,Computer Science,2,6,0,1
+22,Computer Science,1,6,0,1
+21,Mechanical,1,6,1,0
+22,Electronics And Communication,1,7,1,0
+21,Computer Science,1,8,0,1
+22,Electrical,1,7,0,0
+21,Information Technology,2,6,0,1
+21,Information Technology,1,7,1,1
+22,Information Technology,1,6,0,1
+21,Mechanical,2,6,0,1
+22,Mechanical,1,6,0,0
+21,Electronics And Communication,1,7,0,1
+22,Information Technology,0,6,0,1
+22,Civil,1,8,0,1
+21,Electrical,0,7,0,0
+22,Electronics And Communication,1,7,0,0
+22,Information Technology,1,8,0,1
+22,Electrical,1,6,1,0
+21,Mechanical,0,7,0,0
+22,Electronics And Communication,0,7,0,0
+22,Information Technology,1,7,0,0
+22,Computer Science,0,7,1,0
+21,Electronics And Communication,1,8,1,1
+22,Computer Science,0,6,0,0
+22,Information Technology,0,7,0,0
+21,Electronics And Communication,1,6,0,0
+22,Mechanical,1,7,1,0
+22,Computer Science,2,7,0,0
+22,Electrical,1,7,1,0
+21,Civil,1,6,0,0
+22,Civil,0,6,0,0
+22,Electrical,0,7,0,0
+21,Computer Science,1,7,0,0
+22,Information Technology,0,6,0,0
+21,Electrical,0,8,0,1
+21,Mechanical,0,7,0,0
+21,Computer Science,1,6,0,0
+22,Computer Science,0,7,0,0
+22,Civil,1,8,0,1
+22,Information Technology,1,7,0,0
+21,Information Technology,2,8,1,1
+21,Computer Science,1,8,0,1
+22,Information Technology,0,8,0,1
+21,Electronics And Communication,0,6,0,0
+22,Civil,2,6,0,1
+21,Electronics And Communication,2,8,0,1
+21,Mechanical,0,7,0,0
+21,Electrical,0,7,0,0
+22,Mechanical,0,8,0,1
+21,Civil,0,6,0,0
+22,Information Technology,0,8,0,1
+21,Computer Science,1,7,0,0
+22,Computer Science,1,8,0,1
+21,Information Technology,2,8,0,1
+22,Information Technology,1,7,0,0
+22,Civil,1,6,0,0
+21,Computer Science,0,8,0,1
+21,Computer Science,0,8,1,1
+21,Mechanical,2,6,0,1
+21,Electrical,1,8,0,1
+25,Computer Science,0,7,0,0
+26,Electronics And Communication,2,6,0,1
+24,Electrical,1,8,1,1
+25,Computer Science,2,6,0,1
+24,Electronics And Communication,0,6,0,1
+25,Computer Science,1,8,0,1
+23,Electronics And Communication,0,9,0,1
+24,Electrical,1,7,0,1
+25,Civil,0,9,0,1
+25,Computer Science,1,8,0,1
+26,Information Technology,1,6,0,1
+26,Information Technology,1,6,0,1
+25,Electrical,0,8,0,1
+26,Information Technology,0,8,0,1
+24,Information Technology,0,8,0,1
+25,Computer Science,1,8,0,1
+23,Computer Science,1,6,0,1
+23,Civil,0,7,0,0
+24,Electronics And Communication,1,9,0,1
+25,Computer Science,0,8,0,1
+24,Computer Science,0,7,1,1
+24,Mechanical,2,8,0,1
+23,Mechanical,1,8,0,1
+26,Information Technology,1,8,0,1
+23,Civil,1,7,1,0
+26,Computer Science,1,9,0,1
+26,Electrical,2,8,0,1
+26,Electrical,0,9,1,1
+26,Civil,0,6,0,1
+24,Mechanical,0,9,1,1
+24,Computer Science,1,7,0,1
+23,Electrical,0,8,0,1
+26,Mechanical,1,7,0,0
+23,Information Technology,1,7,0,0
+24,Mechanical,0,8,0,1
+26,Civil,0,9,0,1
+25,Electrical,0,7,0,0
+23,Mechanical,0,9,1,1
+24,Computer Science,1,8,0,1
+23,Information Technology,1,8,0,1
+23,Mechanical,0,7,0,0
+26,Computer Science,3,7,0,1
+24,Information Technology,1,6,0,1
+26,Electrical,1,8,0,1
+23,Computer Science,1,6,0,1
+23,Civil,1,7,0,0
+26,Information Technology,1,7,0,1
+26,Civil,0,7,0,0
+24,Computer Science,1,7,0,1
+23,Information Technology,0,8,0,1
+26,Information Technology,1,6,1,1
+23,Electronics And Communication,1,6,1,0
+24,Civil,0,7,0,0
+24,Computer Science,1,6,0,1
+25,Information Technology,1,6,0,1
+25,Computer Science,0,8,0,1
+26,Civil,0,8,0,1
+24,Mechanical,0,6,0,1
+26,Electrical,1,8,0,1
+25,Information Technology,1,8,0,1
+22,Computer Science,0,6,0,1
+21,Information Technology,0,6,0,1
+22,Electrical,1,6,0,0
+22,Information Technology,1,6,0,1
+22,Computer Science,1,6,0,1
+22,Electronics And Communication,1,8,0,1
+21,Computer Science,1,6,0,1
+22,Computer Science,1,6,0,0
+21,Information Technology,1,6,0,1
+21,Electrical,0,8,0,1
+22,Mechanical,0,7,0,0
+22,Computer Science,2,8,0,1
+22,Computer Science,1,8,0,1
+22,Computer Science,1,8,0,1
+21,Information Technology,0,7,0,1
+21,Electronics And Communication,0,6,0,0
+21,Electrical,1,6,0,0
+22,Computer Science,1,6,0,1
+22,Electrical,0,8,0,1
+21,Electrical,1,7,1,1
+21,Mechanical,1,7,0,0
+22,Electrical,0,7,0,0
+21,Information Technology,2,8,0,1
+22,Mechanical,0,8,0,1
+21,Computer Science,1,8,0,1
+22,Civil,0,6,1,0
+21,Information Technology,0,6,0,0
+21,Electronics And Communication,1,8,1,1
+22,Information Technology,1,8,0,1
+22,Mechanical,1,8,0,1
+22,Civil,0,8,0,1
+22,Civil,0,6,0,0
+22,Computer Science,1,8,0,1
+22,Electronics And Communication,1,8,0,1
+22,Computer Science,2,8,1,1
+22,Electrical,0,8,0,1
+22,Information Technology,1,7,0,1
+22,Computer Science,0,8,0,1
+22,Electrical,0,7,0,0
+21,Electronics And Communication,0,8,1,1
+22,Information Technology,0,7,0,1
+21,Computer Science,1,7,0,1
+22,Civil,1,6,0,0
+21,Information Technology,0,6,0,1
+22,Computer Science,1,8,0,1
+21,Mechanical,0,8,0,1
+22,Civil,0,6,0,0
+22,Computer Science,1,6,0,1
+22,Computer Science,1,7,0,1
+21,Civil,0,6,0,0
+22,Computer Science,1,8,0,1
+21,Civil,1,8,0,1
+21,Electronics And Communication,1,6,1,0
+22,Mechanical,1,8,0,1
+22,Information Technology,0,8,0,1
+21,Civil,0,6,0,0
+22,Electronics And Communication,1,6,0,0
+21,Mechanical,0,8,0,1
+21,Electrical,0,7,0,0
+22,Computer Science,0,6,0,1
+22,Information Technology,1,7,0,1
+21,Electronics And Communication,1,8,0,1
+21,Computer Science,2,8,0,1
+22,Civil,0,7,1,0
+21,Electronics And Communication,0,7,0,0
+21,Civil,0,8,0,1
+21,Mechanical,0,7,0,0
+21,Information Technology,0,7,0,1
+21,Electronics And Communication,2,6,0,1
+21,Information Technology,0,8,0,1
+21,Electronics And Communication,0,7,0,1
+21,Information Technology,1,8,0,1
+22,Electronics And Communication,3,7,0,0
+21,Mechanical,0,6,0,0
+21,Mechanical,0,6,0,0
+21,Mechanical,1,8,0,1
+22,Electrical,0,8,0,1
+21,Information Technology,0,6,0,1
+22,Information Technology,0,6,0,1
+22,Computer Science,1,6,0,0
+21,Information Technology,0,6,0,1
+22,Computer Science,1,7,0,1
+22,Mechanical,1,8,0,1
+22,Electrical,0,7,0,0
+22,Electronics And Communication,1,6,1,0
+21,Computer Science,0,7,0,1
+22,Electrical,1,6,0,0
+21,Electronics And Communication,0,6,0,0
+22,Information Technology,0,8,1,1
+22,Electronics And Communication,2,8,0,1
+22,Mechanical,1,7,0,0
+22,Information Technology,0,6,0,0
+21,Electrical,0,7,0,1
+22,Electronics And Communication,0,7,0,0
+22,Computer Science,1,7,0,1
+21,Computer Science,1,8,0,1
+21,Computer Science,2,7,0,1
+22,Information Technology,2,6,0,1
+21,Information Technology,1,6,0,1
+22,Civil,0,8,1,1
+22,Mechanical,1,7,0,0
+21,Computer Science,1,8,0,1
+21,Mechanical,0,8,0,1
+21,Electrical,2,7,1,1
+21,Computer Science,0,6,0,1
+22,Mechanical,1,6,0,0
+22,Civil,0,6,0,0
+21,Electronics And Communication,2,7,0,1
+22,Information Technology,0,8,0,1
+22,Electronics And Communication,0,6,0,0
+22,Information Technology,1,6,0,1
+22,Mechanical,1,7,0,0
+22,Mechanical,1,6,0,0
+22,Information Technology,0,8,0,1
+22,Information Technology,0,8,0,1
+21,Electrical,1,6,1,0
+22,Computer Science,1,7,0,1
+21,Computer Science,0,8,1,1
+21,Information Technology,2,6,0,1
+21,Electronics And Communication,1,8,1,1
+22,Information Technology,0,8,0,1
+22,Information Technology,0,8,0,1
+22,Computer Science,0,6,1,1
+22,Information Technology,1,8,0,1
+21,Computer Science,0,6,1,0
+21,Electrical,0,6,0,0
+22,Information Technology,1,8,1,1
+22,Mechanical,0,6,0,0
+21,Information Technology,1,8,0,1
+22,Electrical,1,7,0,0
+22,Electronics And Communication,0,8,0,1
+21,Information Technology,0,8,0,1
+21,Computer Science,1,7,0,1
+22,Information Technology,0,6,0,1
+22,Information Technology,0,7,0,1
+22,Civil,0,6,1,0
+22,Information Technology,1,7,0,0
+21,Electrical,1,8,0,1
+21,Information Technology,2,7,0,1
+22,Information Technology,3,8,0,1
+22,Mechanical,0,7,1,0
+21,Information Technology,1,6,0,0
+22,Mechanical,1,7,1,0
+21,Information Technology,1,6,0,0
+21,Mechanical,0,8,0,1
+22,Electrical,0,8,1,1
+21,Information Technology,1,8,0,1
+21,Computer Science,0,6,0,0
+22,Information Technology,0,7,0,0
+21,Mechanical,0,8,0,1
+21,Information Technology,0,7,0,0
+21,Electrical,0,6,0,0
+21,Electronics And Communication,1,7,1,0
+21,Civil,2,7,0,0
+22,Civil,1,8,0,1
+22,Information Technology,0,6,0,1
+22,Information Technology,1,6,0,1
+22,Civil,0,7,0,0
+21,Computer Science,0,8,1,1
+22,Information Technology,2,6,0,1
+21,Civil,0,6,0,0
+21,Civil,0,8,0,1
+21,Computer Science,0,7,0,1
+21,Civil,1,7,0,0
+21,Civil,1,6,0,0
+21,Information Technology,2,8,1,1
+21,Mechanical,1,6,0,0
+22,Information Technology,2,8,0,1
+21,Civil,1,8,1,1
+22,Information Technology,0,6,0,1
+22,Electronics And Communication,0,7,0,0
+21,Computer Science,1,8,0,1
+22,Information Technology,2,7,0,1
+22,Computer Science,1,7,0,1
+22,Information Technology,1,7,1,1
+22,Computer Science,1,7,0,1
+22,Mechanical,1,7,1,0
+22,Computer Science,1,7,0,0
+22,Mechanical,0,7,0,0
+22,Civil,0,8,0,1
+22,Information Technology,2,7,1,1
+22,Mechanical,0,7,0,0
+22,Computer Science,0,6,0,1
+22,Electronics And Communication,0,8,0,1
+22,Computer Science,1,8,0,1
+22,Computer Science,1,6,0,1
+22,Computer Science,2,7,0,1
+21,Computer Science,1,8,0,1
+21,Information Technology,0,7,1,1
+22,Computer Science,0,7,0,1
+22,Information Technology,0,8,0,1
+22,Information Technology,0,7,0,1
+22,Computer Science,0,8,0,1
+21,Civil,1,8,0,1
+21,Mechanical,0,7,0,0
+21,Information Technology,1,6,0,1
+21,Information Technology,1,8,0,1
+21,Mechanical,0,7,0,0
+22,Computer Science,1,7,0,1
+21,Computer Science,1,7,0,1
+22,Mechanical,1,8,0,1
+22,Information Technology,1,8,0,1
+21,Information Technology,0,6,1,1
+21,Information Technology,0,7,1,1
+22,Information Technology,2,8,0,1
+22,Electrical,0,8,1,1
+22,Mechanical,0,7,0,0
+22,Electronics And Communication,1,6,0,0
+21,Mechanical,0,8,0,1
+21,Electrical,0,7,0,0
+22,Electronics And Communication,1,6,0,0
+21,Civil,0,8,0,1
+21,Civil,0,8,0,1
+22,Computer Science,1,7,0,1
+21,Mechanical,1,6,0,0
+21,Information Technology,0,6,1,1
+22,Computer Science,0,8,0,1
+21,Computer Science,0,7,0,0
+22,Civil,0,8,0,1
+22,Computer Science,1,8,1,1
+22,Civil,0,6,1,0
+22,Mechanical,0,7,0,0
+21,Electronics And Communication,1,7,1,1
+22,Information Technology,0,8,0,1
+22,Computer Science,0,6,0,1
+22,Information Technology,1,8,0,1
+21,Electronics And Communication,1,7,0,0
+22,Computer Science,1,8,0,1
+22,Computer Science,2,7,0,1
+22,Electrical,0,6,0,0
+22,Mechanical,0,6,0,0
+22,Computer Science,2,7,0,1
+22,Mechanical,0,7,0,0
+22,Computer Science,1,7,0,1
+21,Information Technology,1,6,1,1
+21,Information Technology,1,6,1,1
+22,Information Technology,1,7,0,1
+21,Information Technology,2,8,1,1
+21,Civil,0,6,0,0
+21,Information Technology,0,6,0,1
+22,Information Technology,2,8,0,1
+22,Information Technology,1,8,0,1
+21,Computer Science,1,8,1,1
+22,Computer Science,1,7,0,1
+22,Electrical,2,6,0,1
+21,Civil,1,7,0,0
+21,Information Technology,2,7,1,1
+22,Information Technology,2,7,1,1
+21,Electronics And Communication,1,6,1,0
+21,Mechanical,1,8,1,1
+22,Information Technology,1,8,0,1
+22,Information Technology,2,6,1,1
+21,Computer Science,1,6,1,0
+22,Information Technology,2,7,0,1
+22,Information Technology,1,8,0,1
+21,Information Technology,2,7,1,1
+21,Electrical,2,8,0,1
+22,Civil,2,8,1,1
+22,Information Technology,2,6,0,1
+22,Information Technology,2,6,0,1
+21,Civil,2,7,0,0
+22,Electrical,1,7,1,0
+22,Civil,2,7,0,0
+21,Information Technology,2,8,0,1
+21,Civil,1,6,0,0
+22,Computer Science,2,6,0,1
+21,Electronics And Communication,1,7,0,1
+22,Information Technology,1,7,1,1
+21,Mechanical,2,6,0,1
+22,Mechanical,2,6,0,1
+21,Information Technology,2,7,0,1
+22,Computer Science,2,7,0,1
+21,Electrical,1,6,0,0
+21,Computer Science,1,6,0,1
+22,Civil,2,6,0,1
+22,Computer Science,1,7,0,1
+21,Information Technology,1,8,0,1
+21,Computer Science,2,7,0,1
+22,Mechanical,1,6,0,0
+22,Information Technology,1,8,0,1
+22,Mechanical,1,6,0,0
+21,Computer Science,1,8,1,1
+21,Computer Science,2,8,1,1
+22,Information Technology,2,8,0,1
+22,Mechanical,1,7,0,0
+22,Computer Science,2,7,0,0
+21,Computer Science,2,8,0,1
+22,Mechanical,1,7,0,0
+21,Computer Science,2,7,0,1
+22,Civil,1,6,0,0
+22,Civil,2,8,1,1
+21,Electrical,2,7,0,1
+21,Computer Science,1,6,1,0
+22,Computer Science,1,6,1,0
+22,Electrical,2,7,0,0
+22,Electronics And Communication,1,7,1,0
+22,Civil,1,7,0,0
+21,Electronics And Communication,2,6,0,1
+21,Electrical,2,8,0,1
+22,Computer Science,2,8,0,1
+22,Electronics And Communication,2,6,0,1
+22,Computer Science,1,7,0,0
+21,Electronics And Communication,1,8,1,1
+22,Electronics And Communication,1,7,0,0
+21,Mechanical,2,8,1,1
+21,Electronics And Communication,1,8,0,1
+22,Electrical,2,7,0,0
+21,Civil,2,7,0,0
+22,Information Technology,1,7,0,0
+22,Electrical,2,6,0,1
+22,Electronics And Communication,2,6,0,1
+22,Computer Science,1,6,0,0
+21,Computer Science,1,8,0,1
+22,Electronics And Communication,2,6,0,1
+21,Information Technology,1,7,0,0
+21,Information Technology,2,7,1,0
+21,Computer Science,2,7,1,0
+21,Computer Science,2,8,0,1
+22,Information Technology,1,7,0,0
+21,Civil,2,7,0,0
+21,Computer Science,2,8,0,1
+22,Mechanical,1,6,0,0
+22,Mechanical,1,7,0,0
+22,Information Technology,1,6,0,0
+21,Electrical,1,6,0,0
+21,Mechanical,1,6,0,0
+22,Electrical,1,6,0,0
+22,Mechanical,2,8,0,1
+22,Information Technology,1,7,0,0
+22,Civil,1,6,0,0
+21,Information Technology,1,7,1,0
+21,Computer Science,2,8,0,1
+22,Electronics And Communication,2,7,0,0
+22,Electronics And Communication,2,7,1,0
+22,Mechanical,1,8,0,1
+22,Computer Science,1,6,0,0
+22,Electronics And Communication,1,7,1,0
+22,Electronics And Communication,1,8,1,1
+21,Electrical,1,8,1,1
+22,Computer Science,1,7,0,0
+22,Information Technology,1,9,0,1
+21,Mechanical,2,8,0,1
+21,Electronics And Communication,2,7,1,1
+22,Civil,2,7,0,0
+21,Information Technology,2,9,0,1
+21,Civil,2,7,1,0
+22,Information Technology,1,9,0,1
+22,Computer Science,1,7,1,0
+21,Computer Science,2,7,0,1
+21,Information Technology,1,9,0,1
+21,Computer Science,1,8,0,1
+22,Mechanical,1,9,0,1
+21,Computer Science,2,9,0,1
+21,Electronics And Communication,2,9,0,1
+21,Electronics And Communication,1,8,0,1
+22,Computer Science,1,9,0,1
+21,Electrical,1,8,1,1
+21,Electronics And Communication,2,8,0,1
+22,Information Technology,2,8,0,1
+21,Mechanical,2,9,0,1
+21,Electrical,2,7,1,1
+21,Mechanical,1,9,1,1
+22,Electrical,2,8,0,1
+21,Civil,2,9,0,1
+22,Mechanical,1,9,0,1
+21,Information Technology,2,9,0,1
+22,Electronics And Communication,1,8,1,1
+22,Electronics And Communication,1,8,0,1
+22,Electronics And Communication,2,9,0,1
+21,Information Technology,1,8,0,1
+22,Civil,1,8,0,1
+21,Civil,1,7,0,0
+21,Electrical,1,9,0,1
+22,Computer Science,1,9,0,1
+22,Information Technology,2,8,0,1
+22,Civil,2,9,1,1
+21,Mechanical,1,7,0,0
+22,Information Technology,2,7,0,0
+22,Civil,2,8,0,1
+22,Computer Science,2,7,1,0
+21,Information Technology,1,9,0,1
+22,Computer Science,1,8,0,1
+22,Civil,1,7,0,0
+21,Computer Science,2,8,0,1
+21,Civil,2,7,0,1
+22,Electronics And Communication,2,8,0,1
+22,Mechanical,1,7,0,0
+21,Electrical,1,7,0,1
+22,Electrical,2,8,0,1
+22,Electrical,1,8,1,1
+21,Computer Science,1,8,0,1
+21,Mechanical,1,7,0,0
+21,Information Technology,1,9,0,1
+22,Electrical,0,9,0,1
+21,Information Technology,0,9,0,1
+21,Electronics And Communication,0,8,0,1
+21,Computer Science,1,9,0,1
+22,Information Technology,1,7,0,0
+21,Mechanical,1,8,1,1
+21,Mechanical,0,9,1,1
+22,Information Technology,0,7,0,0
+21,Information Technology,0,8,0,1
+22,Civil,0,8,0,1
+21,Mechanical,0,8,0,1
+22,Computer Science,0,9,1,1
+22,Information Technology,1,8,0,1
+21,Mechanical,0,7,0,0
+21,Electrical,0,7,0,0
+22,Mechanical,0,9,0,1
+22,Information Technology,1,7,0,0
+22,Mechanical,2,9,0,1
+21,Electrical,0,8,0,1
+21,Information Technology,1,8,0,1
+22,Information Technology,1,9,0,1
+22,Computer Science,0,9,0,1
+21,Civil,1,9,0,1
+22,Information Technology,2,8,0,1
+21,Information Technology,1,9,0,1
+22,Civil,0,9,1,1
+21,Electrical,0,8,0,1
+22,Computer Science,1,9,0,1
+22,Electrical,0,8,0,1
+21,Electronics And Communication,1,8,0,1
+21,Electrical,0,8,0,1
+21,Civil,0,9,1,1
+21,Computer Science,1,9,0,1
+21,Civil,0,9,0,1
+21,Information Technology,1,8,0,1
+21,Civil,1,7,0,0
+21,Computer Science,1,9,0,1
+22,Electronics And Communication,0,9,0,1
+22,Electronics And Communication,1,7,1,0
+21,Electrical,1,8,0,1
+21,Information Technology,1,8,0,1
+22,Information Technology,1,8,0,1
+22,Electrical,1,7,1,0
+21,Computer Science,1,7,0,0
+22,Computer Science,1,9,0,1
+21,Computer Science,2,9,0,1
+22,Computer Science,0,9,1,1
+21,Information Technology,0,7,0,1
+22,Mechanical,0,8,0,1
+22,Computer Science,2,8,0,1
+21,Electronics And Communication,0,8,0,1
+21,Mechanical,1,9,0,1
+22,Information Technology,1,9,0,1
+21,Mechanical,0,9,0,1
+21,Civil,0,9,0,1
+21,Civil,0,7,0,0
+21,Information Technology,0,9,0,1
+21,Information Technology,0,9,0,1
+21,Mechanical,1,7,0,0
+21,Electronics And Communication,1,8,1,1
+21,Mechanical,1,9,0,1
+22,Computer Science,1,8,0,1
+22,Computer Science,1,8,1,1
+22,Information Technology,1,9,0,1
+22,Electronics And Communication,0,7,0,0
+21,Electronics And Communication,1,7,0,1
+21,Electronics And Communication,1,8,1,1
+22,Mechanical,0,9,0,1
+22,Computer Science,1,9,0,1
+22,Mechanical,0,7,0,0
+21,Information Technology,0,7,0,1
+22,Mechanical,1,9,0,1
+22,Electrical,0,9,0,1
+21,Computer Science,2,9,1,1
+22,Computer Science,3,9,0,1
+22,Mechanical,0,9,1,1
+21,Information Technology,2,9,0,1
+21,Mechanical,1,7,0,0
+21,Electrical,1,7,0,1
+22,Information Technology,0,9,0,1
+22,Mechanical,1,7,0,0
+22,Civil,0,7,0,0
+21,Electronics And Communication,1,8,0,1
+22,Information Technology,0,9,0,1
+22,Mechanical,0,9,0,1
+22,Mechanical,0,8,0,1
+21,Computer Science,0,9,0,1
+21,Information Technology,1,7,0,0
+21,Electrical,2,8,1,1
+21,Computer Science,1,9,0,1
+22,Electrical,1,9,0,1
+22,Information Technology,0,7,0,1
+22,Information Technology,1,9,0,1
+21,Mechanical,1,8,0,1
+22,Computer Science,0,8,0,1
+21,Civil,0,7,0,0
+21,Computer Science,0,7,1,0
+22,Information Technology,0,7,1,0
+21,Computer Science,0,9,0,1
+21,Mechanical,0,9,1,1
+22,Mechanical,2,9,0,1
+21,Civil,2,8,0,1
+21,Electrical,0,8,0,1
+21,Electrical,1,8,1,1
+22,Electronics And Communication,1,7,0,0
+22,Electronics And Communication,1,8,1,1
+21,Computer Science,1,8,0,1
+22,Computer Science,0,7,1,0
+22,Computer Science,0,9,0,1
+21,Electrical,0,8,0,1
+21,Electrical,1,8,0,1
+21,Electronics And Communication,1,7,0,0
+22,Mechanical,1,7,0,0
+22,Computer Science,1,7,0,0
+21,Mechanical,1,8,0,1
+21,Electronics And Communication,0,8,0,1
+21,Electronics And Communication,1,9,0,1
+21,Electronics And Communication,0,9,0,1
+22,Computer Science,1,8,0,1
+22,Information Technology,0,7,0,0
+21,Mechanical,0,9,0,1
+22,Mechanical,0,8,0,1
+21,Information Technology,0,8,0,1
+22,Mechanical,0,7,0,0
+22,Information Technology,1,8,0,1
+22,Information Technology,0,8,0,1
+21,Information Technology,0,8,0,1
+21,Mechanical,0,7,0,0
+21,Electronics And Communication,0,8,0,1
+22,Computer Science,0,9,0,1
+22,Civil,1,7,0,0
+22,Mechanical,2,7,0,0
+21,Computer Science,1,9,0,1
+21,Information Technology,0,9,0,1
+22,Civil,0,7,1,0
+21,Information Technology,1,8,0,1
+21,Electronics And Communication,0,8,0,1
+21,Electrical,0,9,0,1
+21,Electronics And Communication,0,8,0,1
+22,Information Technology,1,9,0,1
+22,Mechanical,0,9,0,1
+22,Computer Science,0,7,0,0
+21,Information Technology,1,8,1,1
+21,Information Technology,0,7,0,0
+21,Electrical,0,7,0,0
+22,Computer Science,1,8,0,1
+21,Electronics And Communication,0,9,0,1
+25,Information Technology,0,7,0,1
+26,Electrical,0,7,0,0
+24,Information Technology,1,6,1,1
+25,Electronics And Communication,0,6,0,1
+26,Computer Science,0,7,0,0
+26,Computer Science,1,7,0,1
+26,Computer Science,1,6,0,1
+26,Information Technology,2,7,0,1
+24,Computer Science,1,7,0,0
+26,Civil,1,6,1,1
+26,Computer Science,0,6,1,1
+26,Computer Science,1,7,0,0
+26,Information Technology,1,7,0,0
+26,Mechanical,0,7,1,0
+26,Electrical,0,6,0,1
+25,Information Technology,1,7,0,0
+26,Mechanical,0,6,0,1
+24,Electronics And Communication,1,7,1,0
+26,Electronics And Communication,0,6,0,1
+26,Computer Science,0,6,0,1
+24,Computer Science,0,6,1,1
+24,Computer Science,0,6,1,1
+24,Electrical,1,7,0,1
+25,Mechanical,0,7,0,0
+25,Computer Science,0,6,0,1
+25,Computer Science,0,7,0,0
+26,Mechanical,1,6,0,1
+26,Computer Science,1,7,0,0
+26,Computer Science,0,6,1,1
+26,Electronics And Communication,1,7,1,0
+25,Computer Science,0,7,0,0
+25,Computer Science,2,6,0,1
+25,Mechanical,0,7,0,0
+26,Civil,0,7,0,0
+25,Computer Science,1,7,0,1
+26,Information Technology,1,6,0,1
+26,Computer Science,0,7,0,1
+26,Information Technology,0,7,0,1
+26,Computer Science,1,6,0,1
+26,Information Technology,0,7,0,0
+24,Information Technology,1,7,0,0
+24,Civil,0,6,0,1
+25,Electronics And Communication,1,6,0,1
+26,Mechanical,0,7,0,0
+26,Mechanical,1,6,1,1
+25,Computer Science,1,7,0,1
+26,Computer Science,1,7,0,1
+25,Computer Science,2,7,1,1
+25,Computer Science,2,7,1,1
+24,Computer Science,0,6,0,1
+26,Electrical,0,6,0,1
+24,Information Technology,0,7,0,1
+26,Computer Science,1,7,0,1
+26,Mechanical,1,7,1,0
+24,Computer Science,1,7,0,1
+26,Information Technology,0,6,0,1
+25,Computer Science,0,6,1,1
+25,Mechanical,1,6,0,1
+26,Computer Science,1,6,0,1
+25,Electronics And Communication,0,6,0,1
+22,Civil,1,6,0,0
+21,Electrical,0,6,0,0
+22,Computer Science,1,7,0,0
+21,Mechanical,0,6,0,0
+21,Information Technology,0,7,0,0
+22,Computer Science,1,7,0,0
+21,Information Technology,1,7,1,0
+22,Electrical,0,6,0,0
+21,Information Technology,0,7,0,0
+22,Information Technology,0,7,0,0
+21,Information Technology,0,7,1,0
+21,Information Technology,1,7,0,0
+22,Electronics And Communication,1,7,0,0
+22,Electronics And Communication,1,6,1,0
+21,Electrical,1,7,0,1
+22,Information Technology,1,6,0,0
+21,Computer Science,1,6,0,0
+21,Information Technology,1,6,0,0
+21,Information Technology,0,7,1,0
+22,Information Technology,0,6,0,0
+21,Electronics And Communication,0,7,0,1
+22,Electrical,1,6,1,0
+21,Computer Science,1,7,0,0
+21,Information Technology,0,7,0,0
+21,Electronics And Communication,1,6,1,0
+22,Information Technology,3,7,1,0
+21,Computer Science,1,6,0,0
+21,Mechanical,0,7,0,0
+21,Computer Science,1,8,0,1
+22,Information Technology,0,8,0,1
+22,Information Technology,1,8,0,1
+21,Electronics And Communication,1,7,1,0
+21,Information Technology,1,6,0,0
+21,Information Technology,1,8,0,1
+22,Mechanical,0,8,0,1
+22,Mechanical,0,7,1,0
+22,Information Technology,2,8,0,1
+22,Computer Science,0,6,1,0
+21,Information Technology,2,6,0,1
+22,Electrical,0,8,1,1
+22,Civil,1,7,0,0
+22,Civil,1,6,1,0
+22,Information Technology,3,8,0,1
+21,Electronics And Communication,1,7,0,0
+22,Mechanical,0,6,0,0
+22,Civil,0,8,1,1
+22,Civil,0,7,1,0
+21,Computer Science,0,8,1,1
+22,Information Technology,1,6,0,0
+22,Mechanical,0,6,0,0
+21,Computer Science,2,6,0,1
+22,Information Technology,0,8,1,1
+22,Civil,0,6,0,0
+22,Mechanical,1,8,0,1
+21,Civil,2,7,1,0
+21,Mechanical,0,7,0,0
+21,Information Technology,0,6,1,0
+21,Mechanical,0,6,1,0
+22,Information Technology,0,7,1,0
+22,Electronics And Communication,1,8,0,1
+21,Information Technology,2,8,0,1
+22,Electronics And Communication,1,7,0,0
+22,Computer Science,1,8,0,1
+22,Computer Science,1,7,0,0
+21,Electronics And Communication,0,8,1,1
+22,Mechanical,0,8,0,1
+21,Computer Science,0,7,1,0
+22,Electronics And Communication,0,7,0,0
+22,Electronics And Communication,3,6,0,1
+21,Electrical,0,8,0,1
+21,Electronics And Communication,2,7,0,1
+21,Electrical,0,7,0,0
+21,Electrical,0,6,0,0
+22,Computer Science,2,7,0,0
+22,Information Technology,1,8,0,1
+21,Electronics And Communication,0,7,0,0
+22,Computer Science,0,6,0,0
+21,Civil,2,8,0,1
+21,Information Technology,1,6,0,0
+21,Information Technology,0,6,0,0
+21,Information Technology,0,7,1,0
+22,Information Technology,1,6,0,0
+22,Computer Science,1,6,0,0
+21,Electrical,1,7,0,1
+28,Computer Science,3,8,0,1
+21,Computer Science,0,7,1,0
+22,Information Technology,0,7,1,0
+21,Computer Science,0,6,0,0
+22,Electronics And Communication,0,8,0,1
+22,Computer Science,1,6,0,0
+21,Electrical,0,8,0,1
+21,Information Technology,2,8,0,1
+22,Computer Science,0,8,1,1
+22,Electrical,1,8,0,1
+22,Computer Science,0,6,0,0
+21,Computer Science,1,6,0,0
+22,Electronics And Communication,0,6,0,0
+21,Electronics And Communication,1,6,0,0
+21,Computer Science,0,7,0,0
+22,Mechanical,0,6,0,0
+22,Computer Science,1,8,0,1
+21,Civil,0,8,0,1
+22,Computer Science,1,8,0,1
+22,Information Technology,0,7,0,0
+22,Mechanical,1,7,1,0
+21,Information Technology,1,6,0,0
+22,Information Technology,2,8,0,1
+21,Information Technology,1,8,0,1
+21,Electrical,0,6,0,0
+22,Information Technology,1,7,0,0
+21,Information Technology,0,7,0,0
+21,Electrical,0,8,0,1
+21,Mechanical,0,7,0,0
+21,Electronics And Communication,0,6,0,0
+22,Information Technology,0,7,0,0
+22,Mechanical,1,8,0,1
+22,Computer Science,3,6,0,1
+21,Electronics And Communication,1,6,0,0
+22,Electronics And Communication,0,7,0,0
+21,Computer Science,2,7,0,1
+22,Electrical,0,6,0,0
+21,Computer Science,0,6,0,0
+22,Electronics And Communication,1,6,0,0
+22,Information Technology,1,8,0,1
+22,Civil,1,8,1,1
+22,Computer Science,3,6,1,0
+21,Information Technology,0,6,0,0
+22,Civil,0,8,0,1
+22,Electronics And Communication,1,6,0,0
+22,Civil,1,6,0,0
+21,Information Technology,0,8,0,1
+21,Computer Science,1,7,0,0
+22,Information Technology,1,8,0,1
+21,Computer Science,0,7,0,0
+21,Electrical,0,8,0,1
+21,Information Technology,0,7,0,0
+21,Electrical,2,8,1,1
+22,Computer Science,1,6,0,0
+21,Computer Science,1,7,0,0
+22,Information Technology,1,8,0,1
+24,Computer Science,1,8,0,1
+24,Computer Science,1,6,1,1
+22,Information Technology,1,6,0,1
+24,Computer Science,1,7,0,1
+24,Computer Science,1,7,0,1
+24,Computer Science,1,7,0,1
+24,Information Technology,1,6,0,1
+24,Computer Science,0,8,0,1
+20,Electrical,1,7,1,0
+21,Computer Science,1,7,0,1
+23,Electronics And Communication,0,7,0,0
+22,Computer Science,1,8,0,1
+23,Computer Science,1,7,0,1
+23,Electrical,2,7,0,0
+22,Computer Science,2,7,1,1
+24,Computer Science,1,6,0,1
+22,Information Technology,2,7,0,0
+24,Computer Science,0,6,0,1
+22,Information Technology,0,6,0,0
+23,Mechanical,0,7,0,0
+22,Electrical,1,7,0,0
+23,Electronics And Communication,1,6,1,1
+23,Electrical,0,8,1,1
+20,Electrical,1,8,0,1
+24,Mechanical,0,7,0,0
+24,Computer Science,2,6,0,1
+20,Computer Science,1,6,0,0
+24,Mechanical,0,6,0,1
+22,Electrical,1,7,0,0
+20,Civil,1,6,0,0
+23,Electronics And Communication,1,6,1,1
+23,Mechanical,0,6,0,0
+22,Computer Science,1,6,0,0
+22,Mechanical,1,7,0,0
+23,Computer Science,0,7,0,0
+22,Computer Science,1,8,0,1
+20,Computer Science,0,8,1,1
+20,Computer Science,1,7,0,1
+21,Electrical,0,7,0,1
+23,Computer Science,1,7,0,0
+21,Information Technology,1,8,0,1
+21,Mechanical,0,6,0,0
+20,Civil,0,8,0,1
+23,Computer Science,0,7,1,0
+21,Electronics And Communication,0,8,1,1
+24,Electronics And Communication,1,7,0,0
+21,Electronics And Communication,1,6,0,0
+21,Electrical,0,8,0,1
+22,Computer Science,0,6,1,0
+20,Computer Science,2,7,0,0
+21,Computer Science,0,7,0,1
+20,Information Technology,0,6,0,0
+23,Information Technology,0,8,0,1
+22,Computer Science,0,7,0,0
+21,Information Technology,0,8,0,1
+21,Mechanical,0,6,0,1
+24,Information Technology,0,8,0,1
+23,Electronics And Communication,1,6,0,0
+22,Computer Science,0,7,0,1
+20,Mechanical,0,6,1,0
+24,Mechanical,0,7,0,1
+21,Information Technology,0,8,1,1
+23,Computer Science,2,7,1,1
+23,Mechanical,1,7,0,1
+23,Civil,0,8,0,1
+22,Electronics And Communication,1,7,0,0
+24,Mechanical,1,8,0,1
+21,Computer Science,0,8,1,1
+22,Computer Science,0,6,1,0
+22,Electronics And Communication,0,6,0,1
+23,Electrical,0,6,0,0
+20,Computer Science,1,7,0,1
+22,Computer Science,1,8,0,1
+20,Electronics And Communication,0,8,0,1
+23,Computer Science,1,7,0,0
+21,Information Technology,1,7,0,1
+24,Civil,0,8,0,1
+21,Information Technology,0,8,0,1
+21,Electrical,2,6,1,1
+20,Information Technology,0,6,0,0
+23,Computer Science,1,6,0,0
+20,Civil,2,5,0,0
+21,Mechanical,1,5,0,0
+23,Information Technology,1,6,0,0
+24,Electronics And Communication,0,5,0,0
+22,Civil,1,6,0,0
+24,Computer Science,1,5,0,0
+23,Computer Science,0,5,1,0
+23,Information Technology,0,5,1,0
+23,Information Technology,0,5,0,0
+22,Civil,2,6,0,0
+24,Information Technology,0,6,0,1
+22,Civil,0,6,0,1
+24,Computer Science,1,6,0,1
+20,Computer Science,1,5,0,0
+20,Computer Science,2,5,0,0
+24,Mechanical,0,5,1,0
+24,Civil,0,5,0,0
+21,Information Technology,0,5,0,0
+23,Electrical,1,6,1,0
+21,Computer Science,0,7,0,1
+23,Computer Science,1,7,0,1
+20,Civil,1,6,0,1
+24,Information Technology,1,7,0,0
+24,Mechanical,1,7,0,1
+20,Civil,0,7,1,0
+23,Electronics And Communication,0,6,1,0
+24,Mechanical,0,8,0,1
+20,Mechanical,0,8,1,1
+23,Information Technology,0,7,1,0
+22,Information Technology,0,8,0,1
+24,Electronics And Communication,0,7,0,0
+23,Information Technology,0,7,0,0
+21,Information Technology,0,7,0,1
+23,Computer Science,1,8,0,1
+21,Electronics And Communication,1,7,0,0
+24,Information Technology,1,7,0,1
+24,Electronics And Communication,0,8,0,1
+22,Information Technology,2,7,0,0
+21,Electronics And Communication,0,7,0,0
+23,Electronics And Communication,2,8,0,1
+22,Information Technology,0,7,0,1
+24,Civil,0,8,0,1
+20,Mechanical,1,8,0,1
+22,Computer Science,1,8,0,1
+21,Civil,0,8,0,1
+20,Information Technology,1,7,0,1
+21,Civil,0,8,0,1
+22,Computer Science,1,8,1,1
+24,Computer Science,1,7,0,0
+21,Civil,0,7,0,1
+23,Information Technology,1,8,0,1
+21,Electrical,0,6,0,1
+20,Mechanical,1,7,1,0
+24,Information Technology,1,8,0,1
+20,Computer Science,2,7,1,0
+23,Electronics And Communication,0,6,0,0
+22,Civil,0,6,0,0
+22,Computer Science,3,8,0,1
+23,Mechanical,1,8,0,1
+23,Information Technology,0,7,1,1
+23,Electrical,0,8,0,1
+20,Civil,0,8,0,1
+24,Mechanical,0,6,1,1
+20,Electronics And Communication,0,8,0,1
+22,Electronics And Communication,1,8,0,1
+20,Civil,2,6,0,1
+23,Electrical,0,7,0,1
+21,Civil,0,7,0,0
+24,Mechanical,0,6,0,1
+21,Mechanical,0,8,1,1
+22,Information Technology,1,7,0,1
+24,Information Technology,0,6,0,1
+20,Electrical,0,7,0,0
+24,Mechanical,1,8,1,1
+22,Mechanical,0,8,0,1
+23,Information Technology,2,7,0,1
+21,Information Technology,0,6,0,0
+22,Electronics And Communication,1,8,0,1
+21,Computer Science,0,6,1,1
+23,Computer Science,1,7,0,0
+21,Mechanical,0,7,0,0
+21,Electronics And Communication,0,7,1,0
+20,Information Technology,1,8,0,1
+21,Information Technology,1,8,0,1
+22,Computer Science,0,6,1,0
+24,Computer Science,1,8,0,1
+20,Electronics And Communication,0,7,0,0
+21,Information Technology,1,6,0,0
+21,Computer Science,0,6,1,0
+21,Electronics And Communication,0,8,1,1
+21,Computer Science,1,8,1,1
+21,Electronics And Communication,0,8,0,1
+23,Electronics And Communication,0,8,0,1
+21,Civil,0,6,1,0
+24,Electronics And Communication,0,8,0,1
+23,Mechanical,1,6,0,0
+23,Electrical,0,8,0,1
+23,Computer Science,1,8,0,1
+22,Information Technology,1,8,1,1
+21,Mechanical,0,6,0,0
+24,Information Technology,0,6,0,1
+24,Electronics And Communication,1,6,1,1
+22,Electronics And Communication,1,8,1,1
+20,Mechanical,0,6,0,0
+20,Computer Science,0,8,0,1
+21,Electrical,0,6,0,0
+22,Information Technology,0,6,0,0
+24,Electronics And Communication,0,6,0,1
+21,Information Technology,0,7,0,0
+24,Computer Science,1,7,0,1
+22,Information Technology,0,6,0,0
+24,Information Technology,2,8,0,1
+22,Information Technology,1,6,0,0
+21,Civil,0,7,1,0
+20,Mechanical,0,7,0,0
+22,Computer Science,0,6,0,0
+21,Computer Science,0,6,0,0
+22,Electronics And Communication,0,7,0,0
+23,Electronics And Communication,0,6,0,0
+23,Information Technology,1,5,0,0
+22,Computer Science,1,5,0,0
+20,Computer Science,0,5,1,0
+20,Mechanical,0,5,0,0
+24,Computer Science,2,5,0,0
+24,Electronics And Communication,0,6,0,1
+22,Information Technology,1,6,0,0
+23,Electronics And Communication,0,5,0,0
+22,Mechanical,1,6,0,0
+21,Mechanical,1,5,0,0
+22,Mechanical,1,5,0,0
+24,Information Technology,1,6,1,1
+23,Mechanical,0,5,1,0
+23,Civil,1,5,0,0
+22,Electrical,0,5,0,0
+20,Computer Science,1,5,0,0
+23,Computer Science,1,5,0,0
+23,Civil,0,5,0,0
+21,Information Technology,0,6,0,0
+24,Civil,0,6,0,1
+23,Computer Science,0,6,0,1
+24,Information Technology,1,6,0,1
+22,Information Technology,1,5,0,0
+22,Electrical,1,6,1,0
+21,Information Technology,0,5,0,0
+21,Electronics And Communication,0,6,0,0
+20,Computer Science,0,5,0,0
+22,Information Technology,0,6,0,0
+23,Mechanical,1,5,0,0
+22,Computer Science,2,6,0,1
+23,Civil,1,6,1,0
+22,Electrical,2,6,0,1
+21,Mechanical,0,5,1,0
+21,Electrical,0,6,0,0
+20,Mechanical,1,5,0,0
+24,Information Technology,0,6,0,1
+23,Mechanical,0,5,0,0
+21,Civil,0,5,1,0
+21,Computer Science,1,6,1,0
+20,Information Technology,0,6,0,0
+21,Computer Science,2,5,0,0
+23,Computer Science,3,6,0,1
+21,Electronics And Communication,1,5,0,0
+22,Electrical,1,6,1,0
+20,Civil,0,6,1,0
+24,Information Technology,0,6,0,1
+24,Electronics And Communication,1,6,1,1
+22,Mechanical,0,6,0,0
+22,Information Technology,0,6,0,0
+23,Civil,1,6,1,0
+22,Computer Science,0,6,0,0
+24,Mechanical,0,6,0,1
+20,Mechanical,0,6,1,0
+24,Civil,1,6,0,1
+21,Mechanical,1,5,0,0
+23,Computer Science,0,5,1,0
+23,Computer Science,1,5,0,0
+23,Computer Science,1,6,0,0
+21,Computer Science,1,6,0,0
+22,Civil,0,5,0,0
+21,Electronics And Communication,0,6,0,0
+22,Electrical,1,6,1,0
+22,Information Technology,0,5,0,0
+23,Civil,1,6,0,0
+23,Civil,0,6,1,0
+21,Electrical,0,6,1,0
+21,Computer Science,0,6,1,0
+23,Computer Science,1,8,0,1
+20,Computer Science,3,7,1,0
+21,Electronics And Communication,2,7,0,1
+21,Computer Science,0,7,0,0
+23,Computer Science,1,7,0,0
+20,Computer Science,1,6,0,0
+21,Information Technology,1,6,0,0
+20,Information Technology,0,8,0,1
+22,Information Technology,1,6,0,0
+21,Information Technology,1,6,0,0
+24,Information Technology,0,7,0,0
+20,Computer Science,1,8,0,1
+23,Electrical,1,8,0,1
+22,Electronics And Communication,1,7,0,0
+20,Information Technology,1,6,0,0
+20,Civil,0,7,0,0
+24,Computer Science,2,6,0,1
+22,Civil,0,8,0,1
+20,Information Technology,1,6,0,0
+21,Civil,0,8,0,1
+22,Mechanical,0,8,0,1
+22,Information Technology,1,8,0,1
+22,Electronics And Communication,0,8,0,1
+24,Civil,1,7,0,0
+22,Information Technology,1,6,0,0
+23,Information Technology,0,7,0,0
+23,Electronics And Communication,1,6,1,0
+22,Information Technology,1,6,0,0
+23,Mechanical,1,6,0,0
+24,Information Technology,0,6,0,1
+24,Information Technology,0,8,0,1
+22,Computer Science,0,6,1,0
+24,Computer Science,1,6,0,1
+21,Computer Science,0,7,0,0
+24,Computer Science,0,7,0,1
+21,Mechanical,0,8,0,1
+24,Civil,0,6,0,1
+24,Information Technology,1,6,0,1
+21,Electrical,1,6,0,0
+24,Electronics And Communication,1,8,1,1
+20,Computer Science,0,6,0,0
+20,Mechanical,1,6,0,0
+24,Computer Science,0,6,0,1
+21,Computer Science,2,8,0,1
+22,Computer Science,1,8,0,1
+23,Electronics And Communication,0,7,0,0
+21,Information Technology,0,8,0,1
+23,Computer Science,1,6,0,0
+23,Civil,0,8,0,1
+22,Electronics And Communication,0,7,0,0
+24,Electronics And Communication,1,7,1,0
+22,Information Technology,0,6,0,0
+24,Civil,0,7,1,0
+21,Mechanical,0,8,1,1
+22,Electronics And Communication,1,6,1,0
+22,Civil,0,7,0,0
+22,Information Technology,1,6,0,0
+24,Electronics And Communication,1,7,1,1
+24,Computer Science,0,6,1,1
+23,Mechanical,1,7,0,0
+22,Electronics And Communication,1,8,0,1
+20,Mechanical,1,8,0,1
+21,Civil,0,7,0,0
+20,Mechanical,1,7,0,0
+22,Computer Science,0,7,0,0
+21,Computer Science,2,6,0,1
+23,Computer Science,1,8,0,1
+20,Electronics And Communication,1,8,1,1
+22,Computer Science,1,6,0,0
+20,Mechanical,0,8,0,1
+21,Electronics And Communication,0,7,0,0
+22,Electronics And Communication,0,8,0,1
+21,Mechanical,0,7,0,0
+23,Electronics And Communication,0,6,0,0
+21,Electrical,0,7,0,0
+21,Information Technology,1,6,0,0
+20,Mechanical,0,6,1,0
+21,Computer Science,1,6,0,0
+24,Mechanical,0,8,1,1
+21,Electrical,0,6,0,0
+22,Civil,0,7,0,0
+24,Information Technology,1,7,0,0
+22,Computer Science,1,6,0,0
+21,Information Technology,2,8,0,1
+23,Computer Science,2,8,0,1
+24,Information Technology,2,8,0,1
+22,Mechanical,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Computer Science,0,7,1,0
+23,Computer Science,0,6,0,0
+20,Information Technology,0,7,1,0
+23,Computer Science,0,6,0,0
+23,Electrical,1,7,0,1
+21,Information Technology,1,6,0,0
+21,Information Technology,2,7,0,1
+22,Mechanical,1,7,1,0
+24,Mechanical,1,7,0,0
+21,Information Technology,1,7,0,0
+21,Civil,0,7,0,0
+21,Electronics And Communication,1,7,0,0
+20,Computer Science,0,7,0,0
+24,Computer Science,1,7,0,0
+20,Information Technology,0,6,0,0
+20,Electrical,1,7,1,1
+20,Information Technology,0,7,0,0
+24,Electrical,1,7,0,1
+22,Electronics And Communication,1,8,1,1
+23,Information Technology,0,7,0,0
+20,Electronics And Communication,2,7,0,1
+22,Computer Science,0,6,0,0
+21,Electronics And Communication,0,8,0,1
+21,Computer Science,0,6,0,0
+22,Information Technology,0,8,1,1
+22,Computer Science,0,6,0,0
+22,Mechanical,0,6,0,0
+22,Information Technology,2,6,0,1
+21,Information Technology,1,7,0,0
+22,Electrical,0,8,0,1
+23,Electrical,0,6,0,0
+24,Electronics And Communication,0,6,0,1
+24,Civil,1,6,0,1
+21,Electrical,1,8,1,1
+22,Mechanical,1,6,0,0
+20,Information Technology,2,8,0,1
+23,Information Technology,0,8,0,1
+21,Computer Science,1,6,0,0
+21,Computer Science,0,6,0,0
+21,Information Technology,1,8,0,1
+23,Mechanical,1,8,0,1
+22,Electronics And Communication,0,7,0,0
+23,Information Technology,0,7,0,0
+23,Information Technology,2,6,0,1
+20,Mechanical,0,8,0,1
+20,Information Technology,0,8,0,1
+22,Computer Science,2,8,1,1
+22,Information Technology,1,7,0,1
+21,Information Technology,0,7,0,1
+20,Computer Science,1,8,0,1
+20,Electrical,2,7,0,1
+21,Information Technology,0,7,0,0
+19,Information Technology,1,8,1,1
+19,Electrical,1,8,0,1
+21,Computer Science,1,7,0,1
+19,Computer Science,0,7,0,1
+20,Computer Science,0,8,0,1
+19,Electrical,0,8,0,1
+21,Civil,1,8,1,1
+21,Computer Science,1,8,0,1
+22,Information Technology,0,7,0,0
+20,Electronics And Communication,0,8,0,1
+22,Electronics And Communication,1,7,0,0
+21,Computer Science,0,8,0,1
+22,Computer Science,0,7,0,0
+21,Computer Science,1,8,0,1
+20,Information Technology,1,8,0,1
+22,Mechanical,1,8,0,1
+22,Computer Science,0,8,0,1
+21,Electrical,0,8,0,1
+22,Mechanical,0,8,0,1
+22,Computer Science,1,7,0,1
+19,Computer Science,1,7,1,1
+22,Computer Science,0,8,1,1
+22,Computer Science,3,7,0,0
+21,Information Technology,0,7,0,0
+22,Information Technology,0,7,0,0
+21,Civil,1,7,0,0
+20,Information Technology,1,8,0,1
+19,Information Technology,0,8,0,1
+21,Electronics And Communication,1,8,1,1
+21,Information Technology,2,7,1,0
+19,Computer Science,1,8,0,1
+22,Computer Science,1,8,1,1
+21,Computer Science,1,8,0,1
+19,Electrical,1,8,1,1
+19,Electronics And Communication,1,7,0,1
+21,Electrical,0,8,0,1
+20,Computer Science,0,7,1,0
+20,Computer Science,1,7,0,0
+22,Mechanical,3,7,1,0
+22,Electronics And Communication,0,7,0,0
+20,Information Technology,1,7,0,1
+20,Information Technology,0,7,1,1
+22,Computer Science,3,8,0,1
+22,Electronics And Communication,2,8,0,1
+19,Civil,1,8,0,1
+22,Electronics And Communication,1,8,1,1
+22,Information Technology,0,8,1,1
+20,Mechanical,1,8,0,1
+20,Information Technology,1,8,1,1
+20,Mechanical,1,7,1,0
+22,Computer Science,1,7,0,0
+20,Computer Science,1,8,0,1
+19,Civil,1,7,0,0
+21,Civil,0,7,0,0
+19,Computer Science,2,7,0,1
+22,Electrical,0,7,0,0
+19,Electronics And Communication,0,8,0,1
+19,Civil,0,7,0,0
+21,Information Technology,0,8,0,1
+19,Civil,0,8,1,1
+22,Computer Science,1,8,0,1
+20,Computer Science,1,7,0,0
+22,Computer Science,0,7,0,0
+21,Information Technology,1,8,0,1
+20,Information Technology,1,8,0,1
+19,Mechanical,1,8,0,1
+20,Civil,1,8,0,1
+21,Computer Science,0,7,0,0
+22,Information Technology,0,8,0,1
+20,Computer Science,1,8,0,1
+19,Information Technology,1,7,0,0
+21,Computer Science,1,8,0,1
+20,Electronics And Communication,0,8,0,1
+21,Computer Science,1,8,0,1
+20,Mechanical,0,8,1,1
+21,Electrical,0,7,0,0
+20,Computer Science,2,8,0,1
+21,Computer Science,1,7,1,0
+22,Computer Science,0,8,0,1
+19,Electronics And Communication,0,8,0,1
+19,Civil,0,7,0,0
+21,Information Technology,0,7,0,0
+21,Mechanical,1,8,0,1
+19,Computer Science,0,8,0,1
+22,Computer Science,2,7,0,0
+20,Computer Science,1,7,0,0
+22,Information Technology,1,7,0,0
+21,Mechanical,0,8,0,1
+19,Electronics And Communication,0,8,0,1
+20,Information Technology,1,7,0,0
+22,Information Technology,1,8,0,1
+20,Computer Science,0,8,0,1
+19,Computer Science,1,7,0,0
+21,Electronics And Communication,0,7,0,1
+19,Electronics And Communication,0,8,0,1
+21,Electrical,1,8,0,1
+19,Computer Science,0,8,0,1
+19,Computer Science,1,8,0,1
+22,Computer Science,0,7,0,0
+21,Electronics And Communication,0,8,0,1
+19,Computer Science,2,8,0,1
+19,Electronics And Communication,0,7,0,1
+19,Electrical,0,6,0,0
+20,Mechanical,0,8,0,1
+21,Electrical,1,7,1,1
+20,Computer Science,0,8,1,1
+22,Computer Science,0,6,0,0
+19,Computer Science,0,7,0,0
+20,Electrical,0,8,1,1
+22,Electrical,0,6,0,0
+22,Information Technology,1,6,0,0
+21,Electronics And Communication,0,6,1,0
+20,Computer Science,0,7,1,0
+20,Information Technology,1,7,0,0
+21,Information Technology,0,8,0,1
+21,Computer Science,1,8,0,1
+19,Civil,1,7,1,0
+19,Computer Science,0,8,0,1
+19,Electrical,1,6,0,0
+22,Electronics And Communication,0,7,0,0
+22,Electronics And Communication,0,6,0,0
+22,Electronics And Communication,1,8,1,1
+22,Computer Science,1,7,0,0
+19,Mechanical,2,8,0,1
+20,Computer Science,0,6,1,0
+22,Mechanical,1,6,0,0
+21,Information Technology,0,6,1,0
+22,Electronics And Communication,3,6,0,1
+20,Computer Science,0,7,0,0
+20,Information Technology,0,6,0,0
+20,Information Technology,1,8,0,1
+21,Civil,0,7,0,0
+20,Computer Science,2,7,0,1
+20,Electrical,1,6,0,0
+19,Electrical,2,6,1,0
+19,Civil,2,6,0,1
+22,Computer Science,1,8,0,1
+22,Electrical,0,7,1,0
+19,Computer Science,0,6,0,0
+22,Mechanical,2,7,0,0
+20,Computer Science,1,6,0,0
+21,Electrical,1,7,0,1
+20,Mechanical,0,8,0,1
+22,Computer Science,1,7,0,0
+19,Information Technology,1,8,0,1
+22,Information Technology,0,6,0,0
+19,Electronics And Communication,2,8,0,1
+19,Mechanical,0,6,1,0
+21,Information Technology,0,8,0,1
+21,Information Technology,1,6,0,0
+21,Electronics And Communication,2,8,1,1
+19,Information Technology,1,7,0,0
+21,Computer Science,0,8,0,1
+20,Electrical,0,8,0,1
+20,Information Technology,0,6,0,0
+20,Electronics And Communication,2,6,0,1
+21,Electrical,1,8,0,1
+22,Electrical,0,7,0,0
+21,Information Technology,2,7,1,0
+21,Information Technology,2,6,0,1
+20,Mechanical,0,6,0,0
+21,Electrical,0,7,0,0
+22,Information Technology,2,6,0,1
+21,Computer Science,0,8,0,1
+21,Electronics And Communication,0,8,0,1
+19,Computer Science,2,7,1,0
+20,Electrical,0,8,1,1
+19,Electrical,0,8,0,1
+19,Information Technology,3,7,0,1
+21,Computer Science,0,6,1,0
+21,Computer Science,2,6,0,1
+22,Computer Science,2,8,0,1
+20,Electrical,1,7,0,1
+19,Mechanical,0,6,0,0
+20,Electrical,0,6,1,0
+19,Civil,0,8,0,1
+19,Computer Science,1,6,0,0
+21,Computer Science,0,8,1,1
+22,Civil,1,7,0,0
+22,Information Technology,0,6,1,0
+21,Civil,1,6,0,0
+21,Computer Science,2,7,0,1
+20,Electronics And Communication,1,7,0,1
+19,Electronics And Communication,0,6,0,0
+20,Mechanical,0,8,1,1
+20,Information Technology,1,8,0,1
+21,Computer Science,0,6,0,0
+20,Information Technology,1,7,0,0
+22,Computer Science,2,7,0,0
+21,Electronics And Communication,1,8,1,1
+19,Computer Science,1,7,0,0
+20,Information Technology,2,7,0,1
+19,Information Technology,1,8,0,1
+21,Information Technology,1,9,1,1
+19,Information Technology,0,6,1,0
+19,Computer Science,1,9,0,1
+19,Civil,0,7,0,0
+20,Computer Science,1,6,1,1
+20,Information Technology,0,6,0,0
+19,Electronics And Communication,0,8,0,1
+19,Electronics And Communication,0,7,0,0
+21,Computer Science,0,5,1,0
+21,Electrical,0,7,0,0
+19,Mechanical,0,9,1,1
+19,Electronics And Communication,2,8,1,1
+19,Electronics And Communication,0,9,0,1
+20,Computer Science,3,6,0,1
+22,Information Technology,1,6,0,1
+22,Computer Science,1,9,0,1
+21,Computer Science,1,7,1,1
+21,Information Technology,1,5,0,0
+22,Electrical,0,5,0,0
+19,Mechanical,1,5,0,0
+22,Mechanical,0,5,0,0
+21,Electronics And Communication,0,9,0,1
+19,Computer Science,0,8,0,1
+21,Electrical,1,5,0,0
+20,Electrical,0,5,0,0
+21,Civil,1,8,0,1
+20,Computer Science,0,8,1,1
+22,Information Technology,2,5,0,0
+20,Mechanical,0,6,0,0
+19,Computer Science,0,9,1,1
+22,Civil,1,7,0,0
+22,Electronics And Communication,0,5,0,0
+19,Information Technology,0,9,1,1
+19,Mechanical,0,6,0,1
+22,Information Technology,1,9,1,1
+21,Electronics And Communication,1,7,1,1
+19,Electrical,0,5,0,0
+21,Computer Science,1,8,0,1
+22,Computer Science,1,6,0,1
+19,Electronics And Communication,1,8,1,1
+22,Electronics And Communication,1,9,1,1
+22,Computer Science,0,6,0,1
+22,Computer Science,0,9,0,1
+19,Information Technology,1,6,0,1
+20,Mechanical,1,9,0,1
+21,Computer Science,0,9,0,1
+19,Information Technology,2,8,0,1
+21,Electrical,1,9,0,1
+20,Civil,0,8,0,1
+19,Computer Science,1,7,0,1
+20,Information Technology,0,8,0,1
+20,Computer Science,0,5,0,0
+19,Electrical,3,9,1,1
+20,Information Technology,1,7,0,1
+22,Civil,0,9,0,1
+20,Mechanical,0,7,1,1
+21,Information Technology,0,7,0,0
+20,Computer Science,1,8,0,1
+21,Information Technology,1,8,0,1
+21,Civil,0,6,0,0
+19,Mechanical,0,7,0,0
+22,Electrical,0,8,0,1
+22,Computer Science,1,9,0,1
+20,Civil,1,9,0,1
+21,Mechanical,0,6,0,1
+20,Computer Science,2,7,1,1
+21,Computer Science,0,5,0,0
+21,Electronics And Communication,0,7,0,0
+21,Information Technology,0,6,0,0
+22,Information Technology,1,5,0,0
+19,Information Technology,1,9,0,1
+19,Mechanical,3,7,0,1
+21,Electrical,0,5,0,0
+20,Computer Science,0,9,1,1
+21,Computer Science,1,6,0,1
+22,Information Technology,1,5,0,0
+21,Electronics And Communication,0,7,0,0
+21,Information Technology,3,9,0,1
+22,Mechanical,0,5,0,0
+21,Computer Science,2,7,0,0
+20,Information Technology,3,9,0,1
+22,Mechanical,0,8,0,1
+19,Electronics And Communication,1,6,1,1
+20,Mechanical,1,9,0,1
+20,Civil,2,9,0,1
+21,Mechanical,1,8,0,1
+22,Electronics And Communication,1,7,1,1
+22,Computer Science,1,6,0,0
+20,Computer Science,0,6,0,0
+19,Information Technology,1,8,0,1
+19,Information Technology,1,7,0,0
+21,Computer Science,1,6,0,0
+21,Electrical,0,7,1,0
+20,Computer Science,1,8,0,1
+21,Civil,1,6,0,0
+20,Electronics And Communication,1,6,0,0
+19,Information Technology,2,6,0,1
+21,Mechanical,1,6,1,0
+19,Electrical,0,7,0,0
+19,Information Technology,0,8,0,1
+21,Civil,0,7,0,0
+21,Information Technology,1,7,0,1
+19,Mechanical,0,7,0,0
+21,Information Technology,2,7,0,1
+20,Electrical,0,6,0,0
+19,Computer Science,1,6,0,1
+20,Computer Science,0,7,1,1
+19,Computer Science,1,7,0,1
+19,Electrical,0,6,1,0
+19,Electronics And Communication,0,7,0,1
+19,Electrical,0,7,0,0
+20,Computer Science,0,6,1,1
+21,Computer Science,1,8,0,1
+19,Mechanical,0,6,0,0
+19,Computer Science,2,8,0,1
+20,Computer Science,0,7,0,0
+20,Electrical,1,6,0,1
+22,Computer Science,3,6,0,1
+21,Electrical,0,7,0,0
+20,Computer Science,0,8,1,1
+19,Information Technology,2,8,0,1
+22,Electronics And Communication,1,6,0,0
+22,Information Technology,0,7,0,1
+20,Mechanical,0,6,1,0
+20,Mechanical,0,7,0,0
+21,Computer Science,0,8,0,1
+22,Civil,0,8,0,1
+22,Computer Science,1,8,0,1
+19,Civil,1,6,0,0
+22,Electrical,0,8,0,1
+21,Electronics And Communication,0,6,0,0
+20,Electrical,0,6,0,0
+20,Electronics And Communication,1,8,0,1
+22,Computer Science,1,6,0,1
+19,Computer Science,0,8,0,1
+19,Mechanical,0,8,1,1
+20,Information Technology,1,6,1,0
+19,Information Technology,1,6,0,0
+21,Electrical,0,6,0,0
+21,Mechanical,1,6,0,0
+22,Mechanical,0,8,0,1
+21,Computer Science,1,8,0,1
+19,Electronics And Communication,1,8,1,1
+19,Electronics And Communication,0,7,0,1
+21,Electronics And Communication,0,8,0,1
+21,Civil,1,6,0,0
+19,Mechanical,1,8,1,1
+20,Electronics And Communication,1,7,0,1
+19,Mechanical,0,7,0,0
+19,Civil,0,8,1,1
+19,Mechanical,0,7,0,0
+19,Information Technology,0,6,0,0
+19,Electrical,2,7,0,1
+20,Computer Science,0,7,0,0
+22,Civil,1,6,0,0
+19,Civil,1,6,0,1
+20,Computer Science,1,7,0,1
+22,Information Technology,1,6,0,1
+19,Computer Science,0,7,1,1
+19,Electrical,0,7,0,0
+22,Computer Science,1,7,0,0
+21,Civil,0,8,0,1
+20,Civil,1,8,0,1
+21,Electronics And Communication,2,8,0,1
+20,Computer Science,0,6,1,0
+21,Electrical,1,7,0,1
+22,Computer Science,1,7,0,0
+22,Information Technology,3,6,1,0
+20,Computer Science,2,7,0,1
+20,Computer Science,2,6,0,1
+19,Mechanical,1,6,1,0
+22,Information Technology,1,8,0,1
+22,Mechanical,0,8,0,1
+22,Electronics And Communication,1,7,0,0
+20,Electrical,0,8,1,1
+21,Information Technology,1,8,0,1
+21,Computer Science,0,6,0,0
+21,Information Technology,0,6,0,0
+21,Information Technology,0,8,0,1
+20,Civil,1,6,1,0
+19,Information Technology,0,7,0,0
+20,Information Technology,0,6,0,0
+22,Mechanical,1,8,0,1
+22,Electrical,0,7,0,0
+21,Information Technology,1,7,0,0
+19,Electrical,1,7,0,1
+19,Electronics And Communication,0,6,0,0
+19,Information Technology,1,7,0,0
+20,Computer Science,1,8,0,1
+20,Information Technology,1,7,0,0
+22,Electronics And Communication,1,7,0,0
+20,Civil,0,7,0,0
+20,Electronics And Communication,1,6,0,0
+21,Information Technology,0,6,0,0
+21,Information Technology,0,7,0,0
+20,Electronics And Communication,0,7,0,1
+19,Electrical,2,7,1,1
+21,Information Technology,0,8,0,1
+21,Computer Science,1,6,0,0
+20,Civil,0,8,0,1
+22,Civil,1,7,0,0
+20,Information Technology,0,6,0,0
+19,Electrical,0,6,0,0
+22,Civil,0,7,0,0
+21,Civil,0,7,0,0
+22,Information Technology,0,7,0,0
+19,Electrical,0,8,0,1
+21,Information Technology,1,8,0,1
+21,Electronics And Communication,1,7,1,1
+22,Computer Science,2,8,0,1
+22,Computer Science,0,8,0,1
+19,Electrical,1,7,1,1
+20,Computer Science,1,7,0,0
+20,Electronics And Communication,1,6,0,0
+19,Civil,1,8,0,1
+22,Computer Science,0,6,0,0
+20,Electronics And Communication,0,6,0,0
+22,Mechanical,0,6,0,0
+21,Information Technology,0,7,0,0
+21,Electronics And Communication,0,7,0,0
+20,Electronics And Communication,0,8,1,1
+20,Electronics And Communication,2,8,0,1
+22,Computer Science,1,7,0,0
+22,Mechanical,1,6,0,0
+19,Electronics And Communication,0,7,0,0
+22,Electronics And Communication,0,8,0,1
+19,Electrical,1,6,0,0
+20,Computer Science,2,7,0,1
+19,Computer Science,1,7,0,0
+21,Mechanical,0,8,0,1
+22,Computer Science,1,6,0,0
+19,Mechanical,1,6,0,0
+20,Electrical,0,6,0,0
+29,Mechanical,1,8,0,1
+20,Information Technology,1,6,0,0
+20,Information Technology,0,6,0,0
+20,Information Technology,1,6,0,0
+20,Electronics And Communication,0,6,0,0
+22,Civil,1,8,0,1
+19,Computer Science,0,6,0,0
+20,Electronics And Communication,1,6,0,0
+19,Information Technology,0,7,0,0
+20,Electrical,0,6,0,0
+19,Computer Science,0,8,0,1
+20,Information Technology,0,8,1,1
+19,Information Technology,2,7,0,1
+22,Civil,1,6,0,0
+22,Civil,1,6,0,0
+19,Electrical,0,8,0,1
+21,Electrical,0,8,0,1
+22,Information Technology,0,6,0,0
+20,Electronics And Communication,1,7,0,0
+21,Computer Science,2,7,0,1
+19,Information Technology,2,8,0,1
+22,Information Technology,1,7,0,0
+21,Electronics And Communication,0,7,0,1
+19,Information Technology,1,8,0,1
+21,Computer Science,1,6,0,0
+21,Electronics And Communication,1,8,1,1
+21,Computer Science,0,7,1,0
+20,Civil,0,7,0,0
+21,Information Technology,0,8,0,1
+20,Computer Science,0,6,0,0
+19,Electrical,1,7,0,1
+22,Civil,0,8,0,1
+19,Computer Science,0,7,1,0
+20,Computer Science,0,8,0,1
+20,Mechanical,1,7,0,0
+22,Computer Science,1,8,0,1
+22,Information Technology,0,6,0,0
+19,Computer Science,1,8,0,1
+20,Electrical,3,6,1,0
+20,Civil,0,8,0,1
+19,Mechanical,1,7,0,0
+22,Computer Science,1,6,0,0
+19,Mechanical,1,8,0,1
+21,Electrical,1,6,0,0
+21,Mechanical,0,8,0,1
+20,Computer Science,0,6,0,0
+20,Mechanical,1,6,0,0
+20,Computer Science,1,8,0,1
+20,Mechanical,2,6,0,1
+20,Computer Science,0,7,1,0
+20,Computer Science,0,6,0,0
+20,Computer Science,0,6,0,0
+21,Computer Science,1,8,0,1
+20,Electronics And Communication,1,6,1,0
+20,Civil,1,7,0,0
+19,Electronics And Communication,1,7,0,1
+19,Electronics And Communication,0,8,0,1
+19,Electronics And Communication,1,7,1,0
+21,Information Technology,0,6,0,0
+22,Electrical,1,7,1,0
+22,Mechanical,1,6,0,0
+21,Mechanical,0,6,1,0
+20,Information Technology,0,7,1,0
+22,Mechanical,1,7,0,0
+22,Civil,0,8,0,1
+22,Electronics And Communication,0,6,0,0
+19,Mechanical,0,7,0,0
+22,Electronics And Communication,1,6,0,0
+19,Civil,0,6,0,0
+22,Information Technology,2,8,0,1
+20,Computer Science,1,8,0,1
+20,Electronics And Communication,0,6,0,0
+19,Civil,1,7,0,0
+22,Information Technology,0,8,1,1
+21,Electrical,1,8,0,1
+21,Civil,0,7,1,0
+22,Mechanical,0,6,1,0
+20,Information Technology,0,8,0,1
+19,Mechanical,1,6,0,0
+22,Computer Science,2,7,0,0
+22,Mechanical,0,6,0,0
+20,Civil,0,6,0,0
+20,Computer Science,1,7,0,0
+21,Computer Science,2,6,0,1
+20,Computer Science,0,7,0,0
+19,Computer Science,1,8,0,1
+21,Electrical,1,6,0,0
+22,Mechanical,0,6,0,0
+21,Electrical,0,7,0,0
+22,Electronics And Communication,0,8,0,1
+21,Electrical,0,7,0,0
+22,Electronics And Communication,1,6,0,0
+20,Mechanical,1,8,0,1
+21,Computer Science,1,6,0,0
+20,Civil,1,8,0,1
+22,Civil,0,6,0,0
+21,Computer Science,0,8,1,1
+21,Civil,0,6,0,0
+19,Computer Science,1,6,0,0
+22,Civil,0,6,0,0
+19,Civil,1,8,0,1
+21,Computer Science,1,6,0,0
+20,Computer Science,1,7,0,0
+19,Electrical,0,8,1,1
+20,Information Technology,1,8,0,1
+20,Computer Science,1,6,0,0
+22,Mechanical,0,8,0,1
+19,Electronics And Communication,1,8,0,1
+19,Civil,0,6,0,0
+19,Civil,0,8,1,1
+20,Mechanical,0,8,0,1
+19,Electronics And Communication,0,8,0,1
+22,Information Technology,0,6,0,0
+28,Computer Science,0,6,0,1
+22,Computer Science,1,7,0,0
+22,Information Technology,0,6,0,0
+19,Electronics And Communication,1,6,0,0
+19,Computer Science,1,7,0,0
+21,Computer Science,0,7,0,0
+22,Mechanical,1,6,0,0
+20,Electronics And Communication,1,7,0,0
+19,Mechanical,0,8,0,1
+22,Civil,0,7,0,0
+21,Electrical,0,8,0,1
+20,Mechanical,0,7,1,0
+19,Mechanical,1,8,0,1
+21,Information Technology,1,6,0,0
+19,Mechanical,1,8,1,1
+19,Computer Science,0,7,1,0
+22,Civil,1,6,0,0
+19,Computer Science,1,6,0,0
+22,Information Technology,1,8,0,1
+19,Electrical,2,8,1,1
+21,Mechanical,1,6,1,0
+21,Electrical,0,7,0,0
+20,Electrical,0,8,1,1
+20,Mechanical,1,8,0,1
+19,Computer Science,2,6,0,1
+21,Information Technology,0,6,1,0
+22,Information Technology,1,7,0,0
+22,Civil,1,8,0,1
+21,Computer Science,1,7,0,0
+21,Information Technology,0,7,0,0
+22,Electronics And Communication,2,7,0,0
+21,Electrical,1,7,1,1
+22,Information Technology,0,6,1,0
+19,Civil,0,6,0,0
+21,Electronics And Communication,1,6,1,0
+19,Computer Science,1,7,0,0
+21,Computer Science,0,6,1,0
+20,Information Technology,0,7,0,0
+20,Electrical,0,7,0,0
+19,Electronics And Communication,1,8,1,1
+19,Computer Science,1,6,0,0
+21,Civil,0,8,0,1
+22,Electrical,3,7,0,0
+21,Electronics And Communication,0,8,1,1
+22,Computer Science,2,7,0,0
+22,Electronics And Communication,1,6,0,0
+21,Information Technology,0,6,0,0
+21,Information Technology,0,6,0,0
+20,Information Technology,0,6,0,0
+19,Computer Science,0,6,1,0
+21,Electronics And Communication,0,7,0,0
+22,Information Technology,0,7,1,0
+21,Computer Science,0,7,1,0
+22,Computer Science,2,6,0,1
+20,Information Technology,0,7,1,0
+21,Mechanical,0,8,0,1
+21,Electrical,1,7,0,1
+20,Electrical,2,7,0,1
+21,Civil,0,8,0,1
+21,Mechanical,0,8,0,1
+21,Electrical,0,7,0,0
+20,Information Technology,0,8,1,1
+21,Computer Science,0,7,0,0
+20,Computer Science,2,6,0,1
+21,Computer Science,1,6,0,0
+21,Electrical,0,8,0,1
+21,Computer Science,0,7,0,0
+21,Civil,0,7,0,0
+20,Civil,2,7,0,0
+20,Information Technology,0,6,0,0
+21,Electronics And Communication,1,6,1,0
+20,Information Technology,0,8,0,1
+20,Computer Science,1,8,0,1
+21,Civil,0,8,1,1
+20,Computer Science,2,6,0,1
+21,Mechanical,1,8,0,1
+20,Civil,0,8,1,1
+20,Computer Science,1,7,0,0
+21,Mechanical,0,6,0,0
+20,Mechanical,0,7,0,0
+20,Electronics And Communication,1,6,1,0
+20,Computer Science,0,6,1,0
+20,Mechanical,0,6,1,0
+20,Computer Science,1,8,0,1
+20,Civil,1,6,0,0
+20,Computer Science,0,8,0,1
+20,Electronics And Communication,1,6,0,0
+21,Information Technology,0,7,0,0
+20,Electrical,1,7,0,1
+21,Mechanical,3,6,0,1
+20,Computer Science,0,7,0,0
+21,Electronics And Communication,1,8,0,1
+21,Electronics And Communication,1,7,1,1
+21,Mechanical,0,7,0,0
+21,Electronics And Communication,1,8,0,1
+20,Civil,1,8,0,1
+21,Electronics And Communication,0,7,0,1
+20,Civil,0,6,1,0
+21,Information Technology,2,6,0,1
+20,Information Technology,0,7,0,0
+20,Electronics And Communication,0,6,0,0
+20,Information Technology,0,6,0,0
+20,Mechanical,1,6,0,0
+21,Electronics And Communication,0,7,0,0
+20,Mechanical,3,8,0,1
+20,Mechanical,0,7,0,0
+21,Civil,1,6,0,0
+20,Information Technology,1,8,0,1
+21,Computer Science,1,6,0,0
+21,Computer Science,1,7,0,0
+21,Computer Science,1,8,0,1
+20,Mechanical,1,8,0,1
+20,Information Technology,0,8,1,1
+20,Computer Science,0,6,1,0
+21,Mechanical,1,8,0,1
+20,Civil,0,8,0,1
+20,Electronics And Communication,0,6,0,0
+21,Electrical,0,8,0,1
+21,Mechanical,0,6,0,0
+21,Computer Science,1,6,0,0
+20,Information Technology,0,6,0,0
+21,Civil,1,8,0,1
+20,Mechanical,1,8,0,1
+21,Electrical,1,8,0,1
+21,Civil,0,7,0,0
+21,Mechanical,0,7,0,0
+21,Electronics And Communication,0,7,0,1
+20,Computer Science,1,8,0,1
+21,Information Technology,1,8,0,1
+20,Information Technology,1,8,0,1
+20,Mechanical,0,7,0,0
+20,Information Technology,2,6,0,1
+21,Computer Science,1,7,0,0
+21,Mechanical,1,6,0,0
+21,Computer Science,2,6,0,1
+20,Information Technology,1,7,0,0
+20,Civil,0,6,0,0
+21,Mechanical,0,7,1,0
+21,Computer Science,2,7,1,0
+20,Information Technology,0,7,1,0
+20,Civil,0,7,0,0
+21,Electronics And Communication,0,7,0,1
+21,Information Technology,1,8,0,1
+21,Mechanical,0,6,0,0
+21,Computer Science,1,8,0,1
+20,Information Technology,0,7,0,0
+21,Mechanical,1,7,0,0
+21,Civil,0,8,0,1
+21,Information Technology,0,7,0,0
+20,Information Technology,1,7,1,0
+21,Mechanical,0,6,1,0
+21,Electrical,2,6,1,0
+21,Electrical,0,7,0,0
+20,Computer Science,1,7,0,0
+20,Computer Science,0,7,0,0
+20,Computer Science,1,8,0,1
+20,Civil,0,7,1,0
+20,Civil,2,9,0,1
+21,Computer Science,1,9,0,1
+20,Electrical,0,9,0,1
+20,Civil,2,9,0,1
+20,Information Technology,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Information Technology,1,8,0,1
+20,Electronics And Communication,0,7,0,1
+20,Computer Science,1,9,0,1
+20,Electrical,3,7,0,1
+21,Civil,1,8,0,1
+21,Mechanical,0,7,1,0
+21,Electronics And Communication,2,7,1,1
+21,Computer Science,1,7,0,0
+21,Computer Science,2,8,0,1
+21,Computer Science,0,8,0,1
+21,Civil,0,7,0,0
+21,Computer Science,0,8,0,1
+21,Information Technology,1,9,0,1
+21,Information Technology,0,7,0,0
+20,Computer Science,0,7,0,0
+21,Information Technology,1,7,0,0
+21,Computer Science,1,8,0,1
+20,Electrical,0,9,1,1
+21,Electrical,1,9,0,1
+20,Computer Science,1,9,0,1
+21,Mechanical,1,9,0,1
+21,Computer Science,1,8,0,1
+21,Electronics And Communication,1,9,1,1
+20,Mechanical,1,8,0,1
+21,Computer Science,1,8,0,1
+20,Information Technology,0,8,0,1
+20,Civil,1,9,0,1
+21,Electronics And Communication,0,9,0,1
+21,Information Technology,0,8,0,1
+21,Mechanical,0,7,0,0
+21,Electrical,0,9,0,1
+20,Electrical,1,8,0,1
+21,Computer Science,2,9,1,1
+20,Information Technology,0,7,0,0
+21,Mechanical,1,9,1,1
+21,Civil,0,9,0,1
+20,Electronics And Communication,1,7,1,1
+20,Computer Science,1,7,0,0
+21,Information Technology,0,7,0,0
+20,Mechanical,0,9,0,1
+21,Electronics And Communication,0,9,1,1
+21,Electronics And Communication,0,8,0,1
+20,Civil,0,9,1,1
+20,Electrical,1,8,1,1
+20,Information Technology,0,8,0,1
+21,Electronics And Communication,3,9,0,1
+20,Information Technology,1,7,0,0
+20,Computer Science,1,7,0,0
+21,Electrical,1,9,0,1
+20,Electronics And Communication,3,8,1,1
+20,Electronics And Communication,0,8,0,1
+20,Electrical,0,9,1,1
+21,Civil,3,9,0,1
+20,Computer Science,1,8,0,1
+20,Mechanical,0,9,1,1
+20,Computer Science,1,8,0,1
+20,Electronics And Communication,1,9,1,1
+21,Information Technology,2,9,0,1
+20,Electrical,1,7,1,1
+21,Electrical,0,9,0,1
+21,Mechanical,0,8,0,1
+20,Civil,0,9,0,1
+21,Computer Science,0,7,0,0
+20,Electrical,1,7,0,1
+20,Information Technology,1,8,0,1
+21,Electronics And Communication,0,7,0,1
+21,Electrical,0,8,0,1
+21,Information Technology,0,8,0,1
+20,Electrical,0,9,1,1
+21,Electronics And Communication,1,7,0,1
+20,Electronics And Communication,2,7,0,1
+21,Computer Science,2,8,0,1
+20,Civil,0,9,0,1
+20,Computer Science,1,8,0,1
+21,Electrical,0,9,0,1
+21,Electronics And Communication,0,7,0,1
+20,Information Technology,0,8,0,1
+21,Computer Science,0,8,0,1
+20,Electronics And Communication,2,7,0,1
+21,Information Technology,1,8,0,1
+21,Computer Science,1,7,0,0
+20,Civil,1,7,0,0
+21,Electronics And Communication,2,8,0,1
+21,Information Technology,1,8,1,1
+20,Computer Science,2,7,0,1
+20,Information Technology,0,9,0,1
+20,Information Technology,2,8,0,1
+20,Electronics And Communication,1,7,0,0
+20,Information Technology,1,9,0,1
+20,Electronics And Communication,1,7,0,1
+21,Computer Science,1,9,0,1
+20,Electronics And Communication,0,9,0,1
+20,Computer Science,0,8,1,1
+21,Electrical,0,8,0,1
+20,Electrical,1,7,0,1
+20,Computer Science,0,9,1,1
+21,Mechanical,1,7,0,0
+20,Mechanical,0,7,1,0
+21,Information Technology,1,8,0,1
+20,Electrical,0,8,0,1
+21,Mechanical,1,8,0,1
+20,Information Technology,0,7,0,0
+20,Information Technology,0,9,0,1
+20,Computer Science,3,8,0,1
+21,Mechanical,0,9,0,1
+21,Mechanical,0,7,1,0
+20,Electrical,1,7,1,1
+21,Computer Science,0,8,0,1
+21,Information Technology,1,9,0,1
+21,Information Technology,0,7,0,0
+20,Civil,0,9,1,1
+21,Electronics And Communication,1,9,0,1
+20,Electronics And Communication,1,8,1,1
+20,Computer Science,1,7,0,0
+20,Electronics And Communication,1,8,1,1
+21,Information Technology,0,8,0,1
+21,Computer Science,0,7,0,0
+20,Mechanical,0,7,0,0
+21,Computer Science,2,7,1,0
+20,Information Technology,0,9,0,1
+20,Computer Science,0,8,0,1
+20,Electronics And Communication,0,7,0,1
+20,Civil,1,9,0,1
+20,Information Technology,1,7,1,0
+21,Computer Science,1,9,0,1
+20,Information Technology,0,7,0,0
+20,Information Technology,1,7,0,0
+20,Computer Science,2,8,0,1
+20,Electrical,1,7,1,1
+20,Electronics And Communication,0,8,0,1
+20,Information Technology,2,8,0,1
+20,Computer Science,0,8,0,1
+20,Mechanical,0,8,0,1
+20,Mechanical,0,8,0,1
+20,Computer Science,0,6,0,0
+21,Computer Science,1,6,0,0
+20,Computer Science,1,6,0,0
+21,Mechanical,0,6,0,0
+20,Computer Science,1,6,0,0
+20,Information Technology,0,8,1,1
+21,Electronics And Communication,1,6,1,0
+20,Electronics And Communication,0,7,0,0
+21,Information Technology,2,8,0,1
+21,Electrical,0,6,1,0
+21,Computer Science,2,8,0,1
+20,Information Technology,1,7,1,0
+20,Electronics And Communication,1,7,1,0
+20,Electronics And Communication,0,8,0,1
+20,Information Technology,1,7,0,0
+21,Civil,0,8,0,1
+21,Electrical,0,7,0,0
+20,Electrical,1,7,1,1
+20,Computer Science,1,7,0,0
+20,Electrical,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Electrical,0,8,0,1
+21,Mechanical,1,7,0,0
+21,Electrical,0,8,0,1
+20,Electrical,0,8,0,1
+20,Information Technology,0,6,0,0
+20,Information Technology,0,6,0,0
+20,Electronics And Communication,2,8,0,1
+20,Mechanical,0,6,1,0
+21,Information Technology,0,8,0,1
+21,Electrical,1,8,0,1
+20,Computer Science,0,6,0,0
+20,Information Technology,1,7,0,0
+21,Electronics And Communication,0,8,0,1
+21,Electronics And Communication,1,8,0,1
+20,Computer Science,0,6,0,0
+21,Computer Science,0,7,0,0
+20,Computer Science,0,7,1,0
+20,Electronics And Communication,0,6,0,0
+20,Electrical,0,6,0,0
+20,Computer Science,0,7,0,0
+20,Civil,1,6,0,0
+21,Computer Science,1,8,0,1
+21,Electrical,1,6,0,0
+20,Computer Science,1,6,0,0
+21,Electrical,1,8,1,1
+20,Electronics And Communication,0,6,0,0
+20,Mechanical,1,6,1,0
+21,Computer Science,2,6,0,1
+20,Electronics And Communication,1,6,1,0
+20,Electronics And Communication,0,7,0,1
+20,Information Technology,1,8,1,1
+20,Mechanical,0,8,0,1
+20,Information Technology,0,8,0,1
+20,Civil,1,8,0,1
+20,Electrical,0,8,0,1
+20,Civil,1,8,0,1
+23,Electronics And Communication,0,8,0,1
+22,Mechanical,0,7,0,0
+22,Electronics And Communication,0,6,1,0
+22,Information Technology,1,6,0,0
+21,Computer Science,1,7,0,0
+21,Computer Science,1,8,0,1
+23,Computer Science,0,6,0,0
+23,Mechanical,1,6,0,0
+23,Computer Science,1,8,0,1
+21,Computer Science,1,7,0,0
+23,Mechanical,0,7,0,0
+21,Computer Science,2,6,0,1
+23,Electrical,0,7,1,0
+23,Computer Science,1,7,0,0
+23,Electrical,0,6,0,0
+21,Information Technology,1,8,1,1
+23,Civil,0,7,0,0
+23,Information Technology,1,6,1,0
+21,Computer Science,1,7,0,0
+22,Mechanical,0,6,0,0
+21,Computer Science,1,7,0,0
+21,Mechanical,0,7,1,0
+21,Civil,1,8,0,1
+22,Civil,1,7,1,0
+21,Civil,0,6,0,0
+22,Information Technology,0,7,1,0
+21,Mechanical,1,8,0,1
+23,Mechanical,0,6,0,0
+23,Electronics And Communication,1,6,1,0
+22,Electronics And Communication,2,8,0,1
+22,Electronics And Communication,3,8,1,1
+23,Electronics And Communication,1,7,0,1
+22,Information Technology,1,8,0,1
+23,Computer Science,1,6,0,0
+21,Information Technology,0,6,1,0
+23,Electronics And Communication,0,6,1,0
+23,Information Technology,1,6,0,0
+23,Information Technology,0,7,1,0
+23,Electronics And Communication,1,7,1,1
+23,Mechanical,0,6,0,0
+21,Information Technology,0,6,1,0
+21,Computer Science,1,7,0,0
+22,Information Technology,0,7,0,0
+23,Information Technology,0,8,0,1
+22,Mechanical,1,6,1,0
+21,Mechanical,0,7,0,0
+22,Mechanical,0,7,0,0
+21,Mechanical,0,8,0,1
+21,Computer Science,1,7,0,0
+23,Electronics And Communication,1,8,1,1
+21,Information Technology,0,7,1,0
+22,Mechanical,0,7,0,0
+22,Mechanical,1,8,1,1
+21,Electrical,0,7,0,0
+23,Mechanical,1,7,0,0
+21,Information Technology,0,7,0,0
+21,Electrical,0,7,0,0
+23,Civil,1,8,0,1
+23,Computer Science,1,8,0,1
+22,Information Technology,1,6,1,0
+22,Computer Science,1,7,0,0
+21,Information Technology,1,8,0,1
+23,Information Technology,3,8,0,1
+22,Computer Science,0,8,0,1
+22,Mechanical,0,6,0,0
+22,Information Technology,0,6,0,0
+22,Civil,0,8,0,1
+22,Information Technology,1,8,0,1
+23,Electronics And Communication,0,6,0,0
+23,Civil,2,8,0,1
+21,Electronics And Communication,0,8,0,1
+23,Information Technology,1,7,0,0
+22,Electronics And Communication,2,6,0,1
+23,Electronics And Communication,0,7,0,1
+21,Electrical,0,7,0,0
+21,Electronics And Communication,0,8,0,1
+23,Mechanical,0,8,1,1
+23,Computer Science,1,8,0,1
+21,Information Technology,1,7,0,0
+22,Information Technology,2,6,0,1
+23,Electronics And Communication,2,8,0,1
+23,Computer Science,0,6,0,1
+23,Computer Science,2,6,0,1
+21,Computer Science,1,7,0,0
+21,Computer Science,1,8,0,1
+21,Electronics And Communication,2,7,0,1
+21,Electronics And Communication,0,8,1,1
+21,Information Technology,0,6,0,0
+23,Information Technology,0,7,0,0
+22,Computer Science,1,8,0,1
+21,Information Technology,0,8,0,1
+21,Mechanical,0,7,0,0
+23,Information Technology,0,6,1,0
+23,Civil,0,8,1,1
+22,Mechanical,1,8,0,1
+23,Information Technology,1,6,0,0
+23,Information Technology,1,7,0,0
+22,Mechanical,0,8,0,1
+21,Civil,0,6,0,0
+21,Computer Science,1,6,0,0
+22,Computer Science,0,7,1,0
+21,Electronics And Communication,0,7,0,1
+23,Computer Science,0,7,1,0
+23,Electronics And Communication,0,8,0,1
+22,Electrical,2,8,1,1
+23,Information Technology,1,8,0,1
+21,Electronics And Communication,0,8,0,1
+22,Electronics And Communication,2,7,0,0
+21,Electronics And Communication,0,7,0,1
+23,Information Technology,1,8,0,1
+21,Information Technology,1,7,0,0
+23,Information Technology,1,6,0,0
+21,Mechanical,3,6,0,1
+23,Information Technology,1,8,0,1
+22,Electrical,0,6,0,0
+23,Mechanical,0,7,0,0
+21,Information Technology,0,8,0,1
+21,Electrical,0,8,0,1
+21,Computer Science,1,8,0,1
+21,Civil,0,8,0,1
+22,Electronics And Communication,0,8,0,1
+23,Information Technology,0,6,0,0
+23,Computer Science,0,8,0,1
+22,Electrical,1,6,1,0
+21,Mechanical,1,7,0,0
+23,Computer Science,0,7,0,0
+21,Information Technology,0,8,0,1
+22,Computer Science,1,8,0,1
+22,Computer Science,0,6,0,0
+23,Computer Science,0,6,0,0
+21,Computer Science,2,8,0,1
+21,Mechanical,0,6,0,0
+21,Computer Science,1,7,0,0
+23,Computer Science,1,8,0,1
+23,Electrical,1,8,0,1
+21,Electronics And Communication,0,8,0,1
+23,Information Technology,0,6,0,0
+23,Mechanical,0,6,0,0
+21,Computer Science,0,7,1,0
+21,Mechanical,0,8,0,1
+22,Electronics And Communication,0,7,0,0
+21,Electrical,0,7,0,0
+23,Mechanical,0,6,0,0
+23,Electronics And Communication,0,8,0,1
+23,Information Technology,1,7,1,0
+21,Computer Science,1,7,0,0
+23,Information Technology,1,7,1,0
+22,Computer Science,2,8,1,1
+21,Electrical,0,7,0,0
+22,Civil,0,8,0,1
+23,Computer Science,1,8,0,1
+21,Computer Science,3,8,0,1
+23,Mechanical,0,8,0,1
+22,Electronics And Communication,0,7,0,0
+23,Computer Science,1,8,1,1
+22,Information Technology,0,7,0,0
+22,Computer Science,0,8,0,1
+22,Electrical,1,6,1,0
+23,Computer Science,0,6,1,0
+23,Information Technology,0,7,0,0
+23,Mechanical,1,7,0,0
+23,Information Technology,0,7,0,0
+23,Mechanical,1,7,0,0
+22,Information Technology,1,7,0,0
+22,Computer Science,1,7,0,0
+23,Civil,0,8,0,1

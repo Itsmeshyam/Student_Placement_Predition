@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student Placement</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="team" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/vegas.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/templatemo-style.css') }}">
+
+</head>
+<body style="overflow: hidden;">
+
+<!-- PRE LOADER -->
+<section class="preloader">
+    <div class="spinner">
+
+        <span class="spinner-rotate"></span>
+
+    </div>
+</section>
+
+<!-- HOME -->
+<section id="home">
+    <div class="container" style="background-image: url('static/images/wallpapersden70.jpg');background-size: 100% auto;">
+        <div class="row">
+
+            <div class="col-md-12 col-sm-12">
+                <div class="home-info">
+                    <h1>Student Placement Prediction</h1>
+                    <p style="color:white">This page will predict if a student is eligible for Placement</p>
+                    <!-- You can change the date time in init.js file -->
+                    <ul class="countdown">
+                        <h3 style="color:white">Enter Your Details</h3>
+                        <form action="/predict" method='POST'>
+                            <div>
+                                 <input type="text" id="name" name="name" placeholder="Name" required="">
+                                <input type="text" id="email" name="email" placeholder="Email" required="">
+                                <input type="text" id="reg_id" name="reg_id" placeholder="Register ID" required="">
+                                <input type="number" id="age" name="age" placeholder="Age" required="">
+                            </div>
+                            <br>
+                            <div>
+                                 <input type="number" id="historyofbacklogs" name="historyofbacklogs"
+                                   placeholder="History Of Backlogs" required="">
+                                <select id="internships" name="internships" placeholder="Internships Status">
+                                    <option value="" selected data-default>Select Internship Status</option>
+                                    <option value="1">Yes</option>
+                                    <option value="0">No</option>
+                                </select>
+                                <input type="number" id="cgpa" name="cgpa" placeholder="Enter your CGPA" required="">
+                            </div>
+                            <br>
+                            <div>
+                                 <select id="stream" name="stream" placeholder="Select your Stream">
+                                    <option value="" selected data-default>Select stream</option>
+                                    <option value="0">Electronics And Communication</option>
+                                    <option value="1">Computer Science</option>
+                                    <option value="2">Information Technology</option>
+                                    <option value="3">Mechanical</option>
+                                    <option value="4">Electrical</option>
+                                    <option value="5">Civil</option>
+                                </select>
+                            </div>
+                            <br>
+                            <br>
+                            <input type="submit" value="Predict" class="btn btn-primary">
+                        </form>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- SCRIPTS -->
+<script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/vegas.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/countdown.js') }}"></script>
+<script src="{{ url_for('static', filename='js/init.js') }}"></script>
+<script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+
+</body>
+</html>
